@@ -1,0 +1,6 @@
+select 149-152
+spacefill off
+select 149-152 and (phosphorus or nitrogen)
+spacefill
+select 149-152
+refresh

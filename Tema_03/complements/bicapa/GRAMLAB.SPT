@@ -1,0 +1,11 @@
+set fontsize 12
+select atomno=2673
+label "  AGUA"
+select atomno=627
+label "  ACIDO GRASO"
+select atomno=621
+label "    FOSFORO"
+select atomno=567
+label "     NITROGENO"
+select atomno=1080
+label "    OXIGENO"

@@ -1,0 +1,31 @@
+
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td height="18"> 
+      <div align="center"><font color="#000000">.....................................................................................................................................................</font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="2"> 
+      <table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="100"> 
+            <div align="right"><a href="#"><img src="../Imatges/pujar.gif" width="70" height="20" border="0"></a></div>
+          </td>
+          <td width="100"><a href="#" onClick="history.go(-1)"><img src="../Imatges/tornar_inf.gif" width="70" height="20" border="0"></a></td>
+          <td width="100"> 
+            <div align="center"><a href="javascript:window.print();"><img src="../Imatges/imprimir_inf.gif" width="90" height="20" border="0"></a></div>
+          </td>
+          <td width="100">&nbsp;</td>
+          <td width="100">&nbsp;</td>
+          <td width="100"> 
+            <div align="right"></div>
+          </td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="6" class="continguts" height="2"><img src="../Imatges/transparent.gif" width="1" height="5"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

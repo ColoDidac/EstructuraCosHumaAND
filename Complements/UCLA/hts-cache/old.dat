@@ -1,0 +1,1139 @@
+9
+CACHE-1.23
+2004
+17352
+OK9
+text/html29
+Wed, 26 Sep 2001 16:49:22 GMT20
+"38018-40b-3bb20712"0
+0
+3
+HTS4
+1735<html>
+<head>
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript"> 
+function openNewWindow(URLtoOpen, windowName, windowFeatures) { newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
+</script>
+<title>UCLA Molecular Biology Tutorials - Gene Cloning</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#207878" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="1024" height="600" border="0">
+  <param name=movie value="MB_GC.swf">
+  <param name=quality value=high><param name="SCALE" value="noborder"><param name="LOOP" value="false">
+  <embed src="MB_GC.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1024" height="600" border="0" scale="noborder" loop="false">
+  </embed> 
+</object> 
+</body>
+</html>
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+3
+2004
+83892
+OK9
+text/html29
+Mon, 08 Oct 2001 22:03:40 GMT21
+"38025-1e09-3bc222bc"0
+0
+3
+HTS4
+8389<html>
+<head>
+<title>UCLA Molecular Biology Tutorials - Home</title>
+<META NAME="description" CONTENT="Molecular Biology Tutorials is composed of computer-based tools to
+  aid in the teaching of college level">
+<META NAME="keywords" CONTENT="Molecular Biology, Genetics, Interactive Genetics, Tutorials, Biology, Genes, DNA,
+  Education, Science, Mendel, Bacterial, Crosses, Recombinant DNA, Microbiology, RFLP, Molecular,
+  Classical, Linkage, Epistasis, Conjugation, Transduction, Auxotrophy, Cloning, PCR, DNA
+  Sequencing, Southern, Mitosis, Meiosis, Population, Hardy-Weinberg, Probabilities, X-linked,
+  pedigrees, Human, Bacteria, Virus, Interrupted Mating, Homozygous, Heterozygous, Lethal, Fly
+  Lab, Genotype, Phenotype, Virtual FlyLab, Drosophila, mutation, mutations, allele, alleles,
+  dominant, recessive, inheritance, autosome, autosomes, zygotes, gamete, gametes, MCAT, Medical,
+  Mendelian">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+<!--
+
+// -->
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_findObj(n, d) { //v3.0
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#207878" background="gene_sml.gif" onLoad="MM_preloadImages('btn_GC_rollover.gif','btn_GE_rollover.gif')"  leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 vlink="#CCCCCC" alink="#FFFFFF">
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="21" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="178" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">
+<p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="4"><b>Introduction</b></font> 
+      </p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="2"><img src="img_molecular.gif" width="119" height="106"></font></p>
+      <p><font face="Arial, Helvetica, sans-serif, Verdana" color="#207878" size="2">Our 
+        goal is to use advances in technology to enhance the teaching and learning 
+        of molecular biology.<br>
+        <br>
+        In particular, we strive to increase the understanding of molecular biology 
+        through interactive multi-media materials. <br>
+        <br>
+        Our website incorporates a variety of interactions with animations and 
+        tutorials where appropriate. These materials are designed to augment rather 
+        than replace textbooks and lectures. <br>
+        <br>
+        </font></p>
+      <br></td>
+    <td width="21" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="786" height="29" colspan="5" valign="top"><img src="img_tutorial_title.gif" width="786" height="29" usemap="#Map" border="0" align="top"><map name="Map"><area shape="rect" coords="281,9,331,21" href="index.html" alt="UCLA Molecular Biology tutorial" title="UCLA Molecular Biology tutorial" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue"><area shape="rect" coords="348,8,413,22" href="contact.html" alt="contact" title="contact" onMouseOver="MM_displayStatusMsg('contact');return document.MM_returnValue"></map></td>
+  </tr>
+  <tr>
+    <td width="64" height="79" valign="top"></td>
+    <td width="354" height="79" colspan="2" valign="top"><a href="index.html" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue"><img src="img_mb_title.gif" width="354" height="77" border="0" align="top"></a></td>
+    <td width="161" height="79" valign="top"></td>
+    <td width="207" height="79" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="786" height="62" colspan="5" valign="top"><a href="MB_GC1.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1)"><img src="img_spacer.gif" width="56" height="17" border="0" align="top"></a><a href="gene_expression.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','btn_GE_rollover.gif',1);MM_displayStatusMsg('gene expression');return document.MM_returnValue"><img name="Image5" border="0" src="btn_GE.gif" width="185" height="17" align="top" alt="gene expression tutorial"></a><a href="gene_cloning.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1);MM_displayStatusMsg('gene cloning');return document.MM_returnValue"><img name="Image6" border="0" src="btn_GC.gif" width="185" height="17" align="top" alt="gene cloning tutorial"></a><img src="img_spacer.gif" width="360" height="17" align="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="100" valign="top"></td>
+    <td width="6" height="100" valign="top"></td>
+    <td width="509" height="100" colspan="2" valign="top"><p><font face="Arial, Helvetica, sans-serif, Verdana" color="#FFFFFF" size="2"><b>Click 
+        on the above buttons to start the tutorial.<br>
+        </b> (If tutorial fails to load, hit refresh or F5.)<br>
+        </font> </p>
+      <blockquote> <font face="Arial, Helvetica, sans-serif, Verdana" size="2" color="#FFFFFF">In 
+    order to view this site, you'll need <br>
+    Flash 5 Player installed on your browser.<br>
+    If you do not have Flash 5 Player, <br>
+    please click on the link below <b>:</b><br>
+    <font color="#99FFFF"><br>
+    </font></font><font color="#66FFFF" face="Arial, Helvetica, sans-serif, Verdana" size="2"><i><a href="http://www.macromedia.com/downloads/" target="_blank"><font color="#33FFFF">Get 
+    Flash 5 Player</font></a></i> </font></blockquote></td>
+    <td width="207" height="100" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="280" valign="top"></td>
+    <td width="6" height="280" valign="top"></td>
+    <td width="348" height="280" valign="top"></td>
+    <td width="161" height="280" valign="top"></td>
+    <td width="207" height="280" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="178" height="1" valign="top"><img width="178" height="1" src="transparent.gif"></td>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="64" height="1" valign="top"><img width="64" height="1" src="transparent.gif"></td>
+    <td width="6" height="1" valign="top"><img width="6" height="1" src="transparent.gif"></td>
+    <td width="348" height="1" valign="top"><img width="348" height="1" src="transparent.gif"></td>
+    <td width="161" height="1" valign="top"><img width="161" height="1" src="transparent.gif"></td>
+    <td width="207" height="1" valign="top"><img width="207" height="1" src="transparent.gif"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+3
+4044
+26249
+Not Found9
+text/html29
+Thu, 29 Jan 2004 15:56:36 GMT30
+"b24002-a40-40192d34;4115c812"0
+0
+3
+HTS4
+2624<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+  <head>
+    <title>Page Not Found</title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <meta name="author" content="Blackboard">
+    <meta name="copyright" content="&copy; 2000 Blackboard Inc.">
+  </head>
+  
+  <body topmargin="0" leftmargin="10" marginwidth="10" marginheight="0" bgcolor="#FFFFFF" link="#003366" alink="#003366" vlink="#003366">
+
+    <!-- *** BEGIN PAGE *** -->
+    <!-- *** BEGIN PAGE HEADER *** -->
+    <!-- *** BEGIN PAGE TITLE *** -->
+    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="left" width="40"><img SRC="/common/receiptinfo_u.gif" alt="receipt" width="32" height="32" border="0"><img SRC="/common/spacer.gif" width="8" height="32" border="0"></td>
+        <td align="left" width="100%"><b><font face="Arial, Helvetica, sans-serif" size="4">Error: Document Not Found</font></b></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2"><img SRC="/common/spacer.gif" width="1" height="5" border="0"></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2" bgcolor="#CCCCCC"><img SRC="/common/spacer.gif" width="1" height="3" border="0"></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2"><img SRC="/common/spacer.gif" width="1" height="10" border="0"></td>
+      </tr>
+    </table>
+    <!-- *** END PAGE TITLE *** -->
+    <!-- *** END PAGE HEADER *** -->
+    
+    <!-- *** BEGIN PAGE CONTENT *** -->
+    <!-- *** BEGIN CONTENT BLOCK *** -->
+    <table border="0" cellpadding="5" cellspacing="0" width="100%">
+      <tr>
+        <td width="20" valign="top"><img src="/common/spacer.gif" align="middle" width="22" height="22" border="0"></td>
+        <td width="100%" valign="top">
+          <font face="Arial, Helvetica, sans-serif" size="2"><b>Document Not Found</b></font><br>
+          <font size="2" face="Arial, Helvetica, sans-serif">Check to make sure that you entered the URL correctly.</font><br>
+        </td>
+      </tr>
+      
+      <tr>
+        <td colspan="6" align="right">
+          <img SRC="/common/spacer.gif" width="1" height="10" border="0">
+          <a href="javascript:window.history.go(-1)">
+            <img src="/common/ok_off.gif" WIDTH="69" HEIGHT="20" BORDER="0" HSPACE="10">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="6" align="right"><img SRC="/common/spacer.gif" width="1" height="10" border="0"></td>
+      </tr>
+    </table>
+    <!-- *** END CONTENT BLOCK *** -->
+    <!-- *** END PAGE CONTENT *** -->
+  
+  </body>
+</html>
+2
+327197b6237b48cfc9e99c7a24ce7290273
+2005
+692982
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:22 GMT22
+"38016-10eb2-3bb20712"0
+0
+3
+HTS1
+03
+2005
+100252
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:23 GMT21
+"3801c-2729-3bb20713"0
+0
+3
+HTS1
+02
+32829685768da2f15064b9ae51024cc1c33
+2003
+7522
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:21 GMT20
+"38013-2f0-3bb20711"0
+0
+3
+HTS1
+03
+2004
+81622
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:24 GMT21
+"38020-1fe2-3bb20714"0
+0
+3
+HTS1
+03
+2004
+96872
+OK9
+text/html29
+Wed, 26 Sep 2001 16:49:22 GMT21
+"38014-231b-3bb20712"0
+0
+3
+HTS4
+9687<html>
+<head>
+<title>UCLA Molecular Biology Tutorials - Contact</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+<!--
+
+// -->
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_findObj(n, d) { //v3.0
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#207878" background="gene_sml.gif" onLoad="MM_preloadImages('btn_GC_rollover.gif','btn_GE_rollover.gif')"  leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 vlink="#CCCCCC" alink="#FFFFFF">
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="21" height="723" rowspan="5" valign="top" bgcolor="#FFFFFF" nowrap>&nbsp;</td>
+    <td width="181" height="723" rowspan="5" valign="top" bgcolor="#FFFFFF" nowrap align="left"> 
+      <p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="4"><b>Contact</b></font> 
+      </p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="2"><img src="img_molecular.gif" width="119" height="106"></font></p>
+      <p><font color="#207878" face="Arial, Helvetica, sans-serif" size="2">Please 
+        contact Dr. Johnson for any suggestions, comments or technical difficulties. 
+        </font></p>
+      <form method=POST action="http://www.lsic.ucla.edu/cgi-bin/FormMail.pl">
+        <div align=left><font color="#207878" face="Arial, Helvetica, sans-serif" size="2">Your 
+          name:</font></div>
+        <font color="#207878" face="Arial, Helvetica, sans-serif" size="2"> 
+        <input name="Name" value="" size=10>
+        <br>
+        </font> 
+        <div align=left><font color="#207878" face="Arial, Helvetica, sans-serif" size="2">Institution:</font></div>
+        <font color="#207878" face="Arial, Helvetica, sans-serif" size="2"> 
+        <input name="Institution" value="" size=10>
+        <br>
+        </font> 
+        <div align=left><font color="#207878" face="Arial, Helvetica, sans-serif" size="2">E-mail 
+          address:</font></div>
+        <font color="#207878" face="Arial, Helvetica, sans-serif" size="2"> 
+        <input name="E-mail" value="" size=10>
+        <br>
+        Comments/Suggestions: </font><font color="#207878"><br>
+        <textarea name="Comments" rows=5 cols=20></textarea>
+        <br>
+        <input type=SUBMIT value="Submit Request" name="SUBMIT">
+        </font>
+      </form>
+      <p><br>
+      </p></td>
+    <td width="21" height="723" rowspan="5" valign="top" bgcolor="#FFFFFF" nowrap>&nbsp;</td>
+    <td width="786" height="29" colspan="5" valign="top" nowrap><img src="img_tutorial_title.gif" width="786" height="29" usemap="#Map" border="0" align="top" vspace="0" hspace="0"><map name="Map"><area shape="rect" coords="281,9,331,21" href="index.html" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue" alt="UCLA Molecular Biology Tutorials" title="UCLA Molecular Biology Tutorials"><area shape="rect" coords="347,8,412,22" href="contact.html" onMouseOver="MM_displayStatusMsg('contact');return document.MM_returnValue" alt="contact" title="contact"></map></td>
+    <td width="1" height="29" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="77" valign="top" nowrap></td>
+    <td width="354" height="77" colspan="2" valign="top" nowrap><a href="index.html" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue"><img src="img_mb_title.gif" width="354" height="77" border="0" vspace="0" hspace="0"></a></td>
+    <td width="185" height="77" valign="top" nowrap></td>
+    <td width="183" height="77" valign="top" nowrap></td>
+    <td width="1" height="77" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="787" height="61" colspan="6" valign="top" nowrap><a href="MB_GC1.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1)"><img src="img_spacer.gif" width="56" height="17" border="0" vspace="0" hspace="0"></a><a href="gene_expression.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','btn_GE_rollover.gif',1);MM_displayStatusMsg('gene expression');return document.MM_returnValue"><img name="Image5" border="0" src="btn_GE.gif" width="185" height="17" vspace="0" hspace="0" alt="gene expression"></a><a href="gene_cloning.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1);MM_displayStatusMsg('gene cloning');return document.MM_returnValue"><img name="Image6" border="0" src="btn_GC.gif" width="185" height="17" vspace="0" hspace="0" alt="gene cloning"></a><img src="img_spacer.gif" width="360" height="17"></td>
+  </tr>
+  <tr>
+    <td width="64" height="350" valign="top" nowrap></td>
+    <td width="6" height="350" valign="top" nowrap></td>
+    <td width="533" height="350" colspan="2" valign="top" nowrap><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>Science 
+      Director</b><br>
+      </font><font face="Arial, Helvetica, sans-serif" size="2"><a href="mailto:ljohnson@ucla.edu"><font color="#33FFFF">Dr. 
+      Lianna Johnson</font><br>
+      <br>
+      </a></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>Graphic 
+      Designer/Programmer</b></font><br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">Mark D. Barnes</font><br>
+      <font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Atila 
+      van Nas</font><font face="Arial, Helvetica, sans-serif" size="2"><a href="mailto:ljohnson@ucla.edu"><br>
+      <br>
+      </a></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>Contributions</b></font><br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">Steve Sobolevsky</font><br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">John Bacheller</font><br>
+  <br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">Please visit 
+  our Interactive Genetics site at</font><br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.interactive-genetics.ucla.edu"><font color="#33FFFF">www.interactive-genetics.ucla.edu</font></a></font><br>
+  <br>
+  <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">This site 
+  was developed in part with support from a Howard Hughes<br>
+  Medical Institute grant through the Undergraduate Biological<br>
+  Sciences Education Program to the University of California, Los Angeles.</font><font face="Arial, Helvetica, sans-serif" size="2"><a href="mailto:ljohnson@ucla.edu"></a></font></td>
+    <td width="183" height="350" valign="top" nowrap></td>
+    <td width="1" height="350" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="206" valign="top" nowrap></td>
+    <td width="6" height="206" valign="top" nowrap></td>
+    <td width="348" height="206" valign="top" nowrap></td>
+    <td width="185" height="206" valign="top" nowrap></td>
+    <td width="183" height="206" valign="top" nowrap></td>
+    <td width="1" height="206" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="181" height="1" valign="top"><img width="181" height="1" src="transparent.gif"></td>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="64" height="1" valign="top"><img width="64" height="1" src="transparent.gif"></td>
+    <td width="6" height="1" valign="top"><img width="6" height="1" src="transparent.gif"></td>
+    <td width="348" height="1" valign="top"><img width="348" height="1" src="transparent.gif"></td>
+    <td width="185" height="1" valign="top"><img width="185" height="1" src="transparent.gif"></td>
+    <td width="183" height="1" valign="top"><img width="183" height="1" src="transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="transparent.gif"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+3
+2003
+6592
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:21 GMT20
+"38011-293-3bb20711"0
+0
+3
+HTS1
+03
+2004
+83892
+OK9
+text/html29
+Mon, 08 Oct 2001 22:03:40 GMT21
+"38025-1e09-3bc222bc"0
+0
+3
+HTS4
+8389<html>
+<head>
+<title>UCLA Molecular Biology Tutorials - Home</title>
+<META NAME="description" CONTENT="Molecular Biology Tutorials is composed of computer-based tools to
+  aid in the teaching of college level">
+<META NAME="keywords" CONTENT="Molecular Biology, Genetics, Interactive Genetics, Tutorials, Biology, Genes, DNA,
+  Education, Science, Mendel, Bacterial, Crosses, Recombinant DNA, Microbiology, RFLP, Molecular,
+  Classical, Linkage, Epistasis, Conjugation, Transduction, Auxotrophy, Cloning, PCR, DNA
+  Sequencing, Southern, Mitosis, Meiosis, Population, Hardy-Weinberg, Probabilities, X-linked,
+  pedigrees, Human, Bacteria, Virus, Interrupted Mating, Homozygous, Heterozygous, Lethal, Fly
+  Lab, Genotype, Phenotype, Virtual FlyLab, Drosophila, mutation, mutations, allele, alleles,
+  dominant, recessive, inheritance, autosome, autosomes, zygotes, gamete, gametes, MCAT, Medical,
+  Mendelian">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+<!--
+
+// -->
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+
+function MM_findObj(n, d) { //v3.0
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#207878" background="gene_sml.gif" onLoad="MM_preloadImages('btn_GC_rollover.gif','btn_GE_rollover.gif')"  leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 vlink="#CCCCCC" alink="#FFFFFF">
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="21" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="178" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">
+<p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="4"><b>Introduction</b></font> 
+      </p><p><font face="Arial, Helvetica, sans-serif" color="#207878" size="2"><img src="img_molecular.gif" width="119" height="106"></font></p>
+      <p><font face="Arial, Helvetica, sans-serif, Verdana" color="#207878" size="2">Our 
+        goal is to use advances in technology to enhance the teaching and learning 
+        of molecular biology.<br>
+        <br>
+        In particular, we strive to increase the understanding of molecular biology 
+        through interactive multi-media materials. <br>
+        <br>
+        Our website incorporates a variety of interactions with animations and 
+        tutorials where appropriate. These materials are designed to augment rather 
+        than replace textbooks and lectures. <br>
+        <br>
+        </font></p>
+      <br></td>
+    <td width="21" height="550" rowspan="5" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="786" height="29" colspan="5" valign="top"><img src="img_tutorial_title.gif" width="786" height="29" usemap="#Map" border="0" align="top"><map name="Map"><area shape="rect" coords="281,9,331,21" href="index.html" alt="UCLA Molecular Biology tutorial" title="UCLA Molecular Biology tutorial" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue"><area shape="rect" coords="348,8,413,22" href="contact.html" alt="contact" title="contact" onMouseOver="MM_displayStatusMsg('contact');return document.MM_returnValue"></map></td>
+  </tr>
+  <tr>
+    <td width="64" height="79" valign="top"></td>
+    <td width="354" height="79" colspan="2" valign="top"><a href="index.html" onMouseOver="MM_displayStatusMsg('UCLA Molecular Biology Tutorials');return document.MM_returnValue"><img src="img_mb_title.gif" width="354" height="77" border="0" align="top"></a></td>
+    <td width="161" height="79" valign="top"></td>
+    <td width="207" height="79" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="786" height="62" colspan="5" valign="top"><a href="MB_GC1.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1)"><img src="img_spacer.gif" width="56" height="17" border="0" align="top"></a><a href="gene_expression.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','btn_GE_rollover.gif',1);MM_displayStatusMsg('gene expression');return document.MM_returnValue"><img name="Image5" border="0" src="btn_GE.gif" width="185" height="17" align="top" alt="gene expression tutorial"></a><a href="gene_cloning.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','btn_GC_rollover.gif',1);MM_displayStatusMsg('gene cloning');return document.MM_returnValue"><img name="Image6" border="0" src="btn_GC.gif" width="185" height="17" align="top" alt="gene cloning tutorial"></a><img src="img_spacer.gif" width="360" height="17" align="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="100" valign="top"></td>
+    <td width="6" height="100" valign="top"></td>
+    <td width="509" height="100" colspan="2" valign="top"><p><font face="Arial, Helvetica, sans-serif, Verdana" color="#FFFFFF" size="2"><b>Click 
+        on the above buttons to start the tutorial.<br>
+        </b> (If tutorial fails to load, hit refresh or F5.)<br>
+        </font> </p>
+      <blockquote> <font face="Arial, Helvetica, sans-serif, Verdana" size="2" color="#FFFFFF">In 
+    order to view this site, you'll need <br>
+    Flash 5 Player installed on your browser.<br>
+    If you do not have Flash 5 Player, <br>
+    please click on the link below <b>:</b><br>
+    <font color="#99FFFF"><br>
+    </font></font><font color="#66FFFF" face="Arial, Helvetica, sans-serif, Verdana" size="2"><i><a href="http://www.macromedia.com/downloads/" target="_blank"><font color="#33FFFF">Get 
+    Flash 5 Player</font></a></i> </font></blockquote></td>
+    <td width="207" height="100" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="64" height="280" valign="top"></td>
+    <td width="6" height="280" valign="top"></td>
+    <td width="348" height="280" valign="top"></td>
+    <td width="161" height="280" valign="top"></td>
+    <td width="207" height="280" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="178" height="1" valign="top"><img width="178" height="1" src="transparent.gif"></td>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="transparent.gif"></td>
+    <td width="64" height="1" valign="top"><img width="64" height="1" src="transparent.gif"></td>
+    <td width="6" height="1" valign="top"><img width="6" height="1" src="transparent.gif"></td>
+    <td width="348" height="1" valign="top"><img width="348" height="1" src="transparent.gif"></td>
+    <td width="161" height="1" valign="top"><img width="161" height="1" src="transparent.gif"></td>
+    <td width="207" height="1" valign="top"><img width="207" height="1" src="transparent.gif"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+3
+2004
+83082
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:25 GMT21
+"38023-2074-3bb20715"0
+0
+3
+HTS1
+03
+2004
+31572
+OK9
+text/html29
+Wed, 26 Sep 2001 16:49:26 GMT20
+"38028-999-3bb20716"0
+0
+3
+HTS4
+3157<HTML>
+<HEAD>
+<TITLE>MB_GC1</TITLE>
+</HEAD>
+<BODY bgcolor="#207878")"  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"vlink="#CCCCCC" alink="#FFFFFF">
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+// Handle all the the FSCommand messages in a Flash movie
+function MB_GC1_DoFSCommand(command, args) {
+  var MB_GC1Obj = InternetExplorer ? MB_GC1 : document.MB_GC1;
+  //
+  // Place your code here...
+  //
+}
+// Hook for Internet Explorer 
+if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && 
+	  navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+	document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+	document.write('on error resume next \n');
+	document.write('Sub MB_GC1_FSCommand(ByVal command, ByVal args)\n');
+	document.write('  call MB_GC1_DoFSCommand(command, args)\n');
+	document.write('end sub\n');
+	document.write('</SCRIPT\> \n');
+}
+//-->
+</SCRIPT>
+<!-- URL's used in the movie-->
+<A HREF=http://www.interactive-genetics.ucla.edu/mb/gene_expression.html></A> <A HREF=http://www.interactive-genetics.ucla.edu/IG_theteam_contact.htm></A> <!-- text used in the movie-->
+<!--LOADING . . . 0% 7% 12% 23% 39% 47% 62% 77% 89% 93% DONE 100% RESTRICTION ENZYMES SEQUENCING SOUTHERN PCR TUTORIALS IN M OLECULAR  B IOLOGY GENE EXPRESSION GENE CLONING home GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING --><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ ID=MB_GC1 WIDTH=1024 HEIGHT=600>
+ <PARAM NAME=movie VALUE="MB_GC1.swf"> <PARAM NAME=loop VALUE=false> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=best> <PARAM NAME=scale VALUE=noborder> <PARAM NAME=salign VALUE=LT> <PARAM NAME=bgcolor VALUE=#207878> <EMBED src="MB_GC1.swf" loop=false menu=false quality=best scale=noborder salign=LT bgcolor=#207878  WIDTH=1024 HEIGHT=600	swLiveConnect=true NAME=MB_GC1 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+3
+2002
+582
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:24 GMT19
+"38022-3a-3bb20714"0
+0
+3
+HTS1
+02
+320bd1f321daea9be906231c4ba2894a822
+323be15c2f009ad970d2fe532199cca1653
+2004
+55752
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:24 GMT21
+"3801f-15c7-3bb20714"0
+0
+3
+HTS1
+03
+2003
+7522
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:21 GMT20
+"38012-2f0-3bb20711"0
+0
+3
+HTS1
+02
+325d441eb850e3248e0b72318d6c734fd93
+2003
+6592
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:23 GMT20
+"3801d-293-3bb20713"0
+0
+3
+HTS1
+03
+2005
+693012
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:25 GMT22
+"38021-10eb5-3bb20715"0
+0
+3
+HTS1
+03
+2004
+32242
+OK9
+text/html29
+Wed, 26 Sep 2001 16:49:23 GMT20
+"3801a-9dc-3bb20713"0
+0
+3
+HTS4
+3224<HTML>
+<HEAD>
+<TITLE>UCLA Molecular Biology Tutorials - Gene Expression</TITLE>
+</HEAD>
+<BODY bgcolor="#207878" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+// Handle all the the FSCommand messages in a Flash movie
+function MB_GE_DoFSCommand(command, args) {
+  var MB_GEObj = InternetExplorer ? MB_GE : document.MB_GE;
+  //
+  // Place your code here...
+  //
+}
+// Hook for Internet Explorer 
+if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && 
+	  navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+	document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+	document.write('on error resume next \n');
+	document.write('Sub MB_GE_FSCommand(ByVal command, ByVal args)\n');
+	document.write('  call MB_GE_DoFSCommand(command, args)\n');
+	document.write('end sub\n');
+	document.write('</SCRIPT\> \n');
+}
+//-->
+</SCRIPT>
+<!-- URL's used in the movie--> <A HREF=http://www.interactive-genetics.ucla.edu/mb/gene_cloning.html></A> 
+<A HREF=http://www.interactive-genetics.ucla.edu/IG_theteam_contact.htm></A> <!-- text used in the movie--> 
+<!--LOADING . . . 0% 7% 12% 23% 39% 47% 62% 77% 89% 93% DONE 100% stem loop TRANSCRIPTION SPLICING TRANSLATION TUTORIALS IN M OLECULAR  B IOLOGY GENE EXPRESSION GENE CLONING home GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING GENE EXPRESSION GENE CLONING --><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ ID=MB_GE WIDTH=1024 HEIGHT=600 vspace="0" hspace="0" border="0">
+  <PARAM NAME=movie VALUE="MB_GE.swf"> <PARAM NAME=loop VALUE=false> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=best> <PARAM NAME=scale VALUE=noborder> <PARAM NAME=salign VALUE=LT> <PARAM NAME=bgcolor VALUE=#207878> <EMBED src="MB_GE.swf" loop=false menu=false quality=best scale=noborder salign=LT bgcolor=#207878  WIDTH=1024 HEIGHT=600	swLiveConnect=true NAME=MB_GE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" vspace="0" hspace="0" border="0"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>
+
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+
+2
+32d78d628a5857af474bc0ff490ffc7e5a3
+2002
+422
+OK9
+image/gif29
+Wed, 26 Sep 2001 16:49:30 GMT19
+"38034-2a-3bb2071a"0
+0
+3
+HTS1
+03
+2005
+457492
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:27 GMT21
+"3802a-b2b5-3bb20717"0
+0
+3
+HTS1
+03
+2006
+1963032
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:26 GMT22
+"38026-2fecf-3bb20716"0
+0
+3
+HTS1
+03
+2005
+627732
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:25 GMT21
+"38024-f535-3bb20715"0
+0
+3
+HTS1
+03
+2006
+2925992
+OK29
+application/x-shockwave-flash29
+Wed, 26 Sep 2001 16:49:27 GMT22
+"38029-476f7-3bb20717"0
+0
+3
+HTS1
+0

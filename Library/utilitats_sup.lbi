@@ -1,0 +1,26 @@
+
+<table border="0" cellspacing="0" cellpadding="0" width="125">
+  <tr> 
+    <td><img src="../Imatges/transparent.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td width="25" class="navegaci&oacute;1"> 
+      <div align="center"><a href="#" onClick="history.go(-1)"><img src="../Imatges/tornar.gif" width="14" height="15" border="0"></a></div>
+    </td>
+    <td width="25" class="navegaci&oacute;1"> 
+      <div align="center"><img src="../Imatges/camera.gif" width="14" height="15"></div>
+    </td>
+    <td width="25"> 
+      <div align="center"><img src="../Imatges/arxiu.gif" width="14" height="15"></div>
+    </td>
+    <td width="25"> 
+      <div align="center"><a href="mailto:vsantama@andorra.ad"><img src="../Imatges/correu.gif" width="14" height="15" border="0"></a></div>
+    </td>
+    <td width="25"> 
+      <div align="center"><a href="javascript:window.print();"><img src="../Imatges/imprimir.gif" width="14" height="15" border="0"></a></div>
+    </td>
+  </tr>
+  <tr> 
+    <td><img src="../Imatges/transparent.gif" width="1" height="5"></td>
+  </tr>
+</table>

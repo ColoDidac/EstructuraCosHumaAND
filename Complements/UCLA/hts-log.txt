@@ -1,0 +1,17 @@
+HTTrack3.23+swf launched on Sat, 25 Sep 2004 17:01:29 at http://www.lsic.ucla.edu/ls3/tutorials/gene_expression.html http://www.lsic.ucla.edu/ls3/tutorials/gene_cloning.html http://www.lsic.ucla.edu/ls3/tutorials/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/*
+(winhttrack -qiC2%Ps2u1%sN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2003], %s -->" -%l "es, en, *" http://www.lsic.ucla.edu/ls3/tutorials/gene_expression.html http://www.lsic.ucla.edu/ls3/tutorials/gene_cloning.html http://www.lsic.ucla.edu/ls3/tutorials/ -O "E:\Downloads\UCLA\UCLA","E:\Downloads\UCLA\UCLA" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -%A php3,php,php2,asp,jsp,pl,cfm=text/html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:01:41	Info: 	engine: transfer-status: link added: www.lsic.ucla.edu/ls3/tutorials/MB_GC_PCR.swf -> E:/Downloads/UCLA/UCLA/www.lsic.ucla.edu/ls3/tutorials/MB_GC_PCR.swf
+17:01:47	Info: 	engine: transfer-status: link added: www.lsic.ucla.edu/ls3/tutorials/MB_GC_Sequencing.swf -> E:/Downloads/UCLA/UCLA/www.lsic.ucla.edu/ls3/tutorials/MB_GC_Sequencing.swf
+17:01:48	Info: 	engine: transfer-status: link added: www.lsic.ucla.edu/ls3/tutorials/MB_GC_ResEnzymes.swf -> E:/Downloads/UCLA/UCLA/www.lsic.ucla.edu/ls3/tutorials/MB_GC_ResEnzymes.swf
+17:01:49	Info: 	engine: transfer-status: link added: www.lsic.ucla.edu/ls3/tutorials/MB_GC_Southern.swf -> E:/Downloads/UCLA/UCLA/www.lsic.ucla.edu/ls3/tutorials/MB_GC_Southern.swf
+17:01:49	Warning: 	Warning, link #28 empty
+No files purged
+
+HTTrack mirror complete in 20 seconds : 27 links scanned, 26 files written (1174768 bytes overall) [377049 bytes received at 18852 bytes/sec], 6.7 requests per connection
+(No errors, 1 warnings, 4 messages)

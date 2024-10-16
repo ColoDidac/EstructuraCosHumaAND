@@ -1,0 +1,10 @@
+set fontsize 30
+select atomno=21
+label "  -"
+select atomno=1
+label "  +"
+
+select all
+spacefill
+refresh
+script "x90-3.spt"

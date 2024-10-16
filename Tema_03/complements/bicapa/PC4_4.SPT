@@ -1,0 +1,8 @@
+restrict not 160
+select 150
+wireframe 0.4
+select (lip.c15 or lip.c35) and 150
+spacefill
+select 150
+color white
+refresh

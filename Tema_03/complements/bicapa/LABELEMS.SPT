@@ -1,0 +1,13 @@
+select atomno=1
+label . N
+select atomno=21
+label . P
+select atomno=35
+label O
+select atomno=113
+label C
+select atomno=104
+label .H
+set fontsize 20
+refresh
+

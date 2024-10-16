@@ -1,0 +1,26 @@
+select 148 or 156 or 160
+wireframe 0.4
+
+#DIFFERENTLY COLOR 4 PC'S IN A ROW
+select (lip.c15 or lip.c35) and 148
+spacefill
+select 148
+color yellow
+
+select (lip.c15 or lip.c35) and 152
+spacefill
+select 152
+color green
+
+select (lip.c15 or lip.c35) and 156
+spacefill
+select 156
+color magenta
+
+select (lip.c15 or lip.c35) and 160
+spacefill
+select 160
+color white
+
+translate x -10
+refresh

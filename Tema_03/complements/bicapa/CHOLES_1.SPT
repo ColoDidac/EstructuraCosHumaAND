@@ -1,0 +1,17 @@
+zap
+load "choleste.pdb"
+rotate z -10
+wireframe 0.4
+zoom 120
+
+set fontsize 20
+select atomno=2
+label " C"
+select atomno=42
+label "   H"
+select atomno=28
+label " O"
+
+refresh
+
+script "wave.spt"

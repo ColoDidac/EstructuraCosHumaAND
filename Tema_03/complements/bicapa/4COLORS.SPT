@@ -1,0 +1,8 @@
+select 141 or 145 or 149 or 153 or 157
+color yellow
+select 142 or 146 or 150 or 154 or 158
+color green
+select 143 or 147 or 151 or 155 or 159
+color magenta
+select 144 or 148 or 152 or 156 or 160
+color white

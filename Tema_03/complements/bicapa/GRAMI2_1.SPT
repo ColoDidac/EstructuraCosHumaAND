@@ -1,0 +1,12 @@
+zap
+load "gramisl.pdb"
+zoom 130
+wireframe off
+spacefill
+select water
+color greenblue
+
+translate x -10
+script "gramlab.spt"
+refresh
+script "wave5.spt"

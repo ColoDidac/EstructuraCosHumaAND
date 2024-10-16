@@ -1,0 +1,8 @@
+zap
+load "choleste.pdb"
+rotate z -10
+spacefill
+zoom 100
+refresh
+script "x90-3.spt"
+

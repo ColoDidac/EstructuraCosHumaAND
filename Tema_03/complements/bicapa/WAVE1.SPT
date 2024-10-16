@@ -1,0 +1,46 @@
+set hourglass off
+rotate x 1
+refresh
+rotate x 1
+refresh
+rotate x 1
+refresh
+rotate x 1
+refresh
+rotate x 1
+refresh
+
+rotate x -1
+refresh
+rotate x -1
+refresh
+rotate x -1
+refresh
+rotate x -1
+refresh
+rotate x -1
+refresh
+
+rotate y 1
+refresh
+rotate y 1
+refresh
+rotate y 1
+refresh
+rotate y 1
+refresh
+rotate y 1
+refresh
+
+rotate y -1
+refresh
+rotate y -1
+refresh
+rotate y -1
+refresh
+rotate y -1
+refresh
+rotate y -1
+refresh
+set hourglass on
+

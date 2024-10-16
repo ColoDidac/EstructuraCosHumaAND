@@ -1,0 +1,8 @@
+spacefill off
+wireframe 0.2
+select all
+labels off
+script "oleoyl.spt"
+wireframe 0.5
+refresh
+script "x90-3.spt"

@@ -1,0 +1,18 @@
+zap
+load "pc-oph.pdb"
+rotate z -72
+rotate y -10
+rotate x 50
+zoom 150
+wireframe off
+
+set fontsize 30
+select atomno=21
+label "  -"
+select atomno=1
+label "  +"
+select all
+
+spacefill
+refresh
+script "wave.spt"

@@ -1,0 +1,6 @@
+restrict 41-60 or 141-160
+script "delay1.spt" #10/26/97
+
+select (21-80 or 121-180) and phosphorus
+spacefill
+script "delay1.spt" #10/26/97

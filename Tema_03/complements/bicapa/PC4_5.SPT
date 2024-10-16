@@ -1,0 +1,9 @@
+restrict not 156
+select 151
+wireframe 0.4
+select (lip.c15 or lip.c35) and 151
+spacefill
+select 151
+color magenta
+translate x 0
+refresh

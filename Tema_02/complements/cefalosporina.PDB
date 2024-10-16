@@ -1,0 +1,58 @@
+COMPND  cefa.PDB                                                                
+HETATM    1  C                  -0.608  -0.413  -0.925                
+HETATM    2  N                   0.788  -0.017  -0.709                
+HETATM    3  C                  -0.956   0.997  -1.493                
+HETATM    4  O                  -1.209  -1.442  -0.812                
+HETATM    5  N                  -1.973   1.700  -0.717                
+HETATM    6  C                   0.539   1.382  -1.245                
+HETATM    8  S                   0.954   2.784  -0.158                
+HETATM    9  C                   2.458   2.072   0.602                
+HETATM   12  C                   1.573  -0.287   0.448                
+HETATM   13  C                   1.512  -1.759   0.985                
+HETATM   15  C                   2.351   0.652   1.030                
+HETATM   17  C                  -2.949   2.540  -1.283                
+HETATM   18  C                  -3.820   3.298  -0.310                
+HETATM   19  O                   2.287  -2.587   0.468                
+HETATM   20  O                  -3.088   2.596  -2.500                
+HETATM   21  O                   0.704  -1.987   1.909                
+HETATM   22  C                   3.209   0.324   2.203                
+HETATM   14  H                  -1.235   0.996  -2.571                
+HETATM   16  H                  -1.795   1.790   0.261                
+HETATM    7  H                   1.100   1.516  -2.197                
+HETATM   10  H                   3.302   2.181  -0.105                
+HETATM   11  H                   2.682   2.723   1.468                
+HETATM   26  H                  -3.223   3.988   0.302                
+HETATM   27  H                  -4.579   3.894  -0.833                
+HETATM   28  H                  -4.347   2.615   0.370                
+HETATM   23  H                   3.209  -0.751   2.431                
+HETATM   24  H                   4.249   0.627   2.020                
+HETATM   25  H                   2.861   0.854   3.100                
+CONECT    1    2    3    4                                   
+CONECT    2    1    6   12                                   
+CONECT    3    1    5    6   14                              
+CONECT    4    1                                             
+CONECT    5    3   17   16                                   
+CONECT    6    2    3    8    7                              
+CONECT    8    6    9                                        
+CONECT    9    8   15   10   11                              
+CONECT   12    2   13   15                                   
+CONECT   13   12   19   21                                   
+CONECT   15    9   12   22                                   
+CONECT   17    5   18   20                                   
+CONECT   18   17   26   27   28                              
+CONECT   19   13                                             
+CONECT   20   17                                             
+CONECT   21   13                                             
+CONECT   22   15   23   24   25                              
+CONECT   14    3                                             
+CONECT   16    5                                             
+CONECT    7    6                                             
+CONECT   10    9                                             
+CONECT   11    9                                             
+CONECT   26   18                                             
+CONECT   27   18                                             
+CONECT   28   18                                             
+CONECT   23   22                                             
+CONECT   24   22                                             
+CONECT   25   22                                             
+END   

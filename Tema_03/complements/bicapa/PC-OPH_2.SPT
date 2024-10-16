@@ -1,0 +1,11 @@
+zap
+load "pc-oph.pdb"
+rotate z -72
+rotate y -10
+rotate x 50
+zoom 150
+select all
+wireframe 0.2
+script "labelems.spt"
+refresh
+script "x90-3.spt"

@@ -1,0 +1,25 @@
+set fontsize 20
+rotate z -18
+zoom 140
+refresh
+script "delay1.spt"
+
+rotate z -18
+zoom 130
+refresh
+script "delay1.spt"
+
+rotate z -18
+zoom 120
+refresh
+script "delay1.spt"
+
+set fontsize 15
+rotate z -18
+zoom 110
+refresh
+script "delay1.spt"
+
+rotate z -18
+zoom 100
+refresh

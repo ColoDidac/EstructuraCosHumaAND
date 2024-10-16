@@ -1,0 +1,3 @@
+select atomno>=24 and atomno<=33
+select selected or atomno=22 or atomno=82
+

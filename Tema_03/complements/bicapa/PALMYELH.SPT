@@ -1,0 +1,18 @@
+#Palmitic
+#This method is cumbersome but it works for any number of PC's.
+
+select lip.c1 or lip.c2 or lip.c3 or lip.c4 or lip.c5 or lip.c6
+select selected or lip.c7 or lip.c8 or lip.c9 or lip.c10 or lip.c11
+select selected or lip.c12 or lip.c13 or lip.c14 or lip.c15 or lip.c16
+color [200,200,140] #dull yellow gray for saturated arms
+
+select lip.1h1 or lip.1h2 or lip.1h3 or lip.1h4 or lip.1h5 or lip.1h6
+select selected or lip.1h7 or lip.1h8 or lip.1h9 or lip.1h10 or lip.1h11
+select selected or lip.1h12 or lip.1h13 or lip.1h14 or lip.1h15 or lip.1h16
+
+select selected or lip.2h1 or lip.2h2 or lip.2h3 or lip.2h4 or lip.2h5 or lip.2h6
+select selected or lip.2h7 or lip.2h8 or lip.2h9 or lip.2h10 or lip.2h11
+select selected or lip.2h12 or lip.2h13 or lip.2h14 or lip.2h15 or lip.2h16
+select selected or lip.3h15
+color [255,255,180] #light yellow for hydrogens
+

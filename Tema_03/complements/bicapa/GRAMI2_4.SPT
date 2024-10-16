@@ -1,0 +1,12 @@
+backbone off
+select all
+label off
+restrict not water and not pop
+spacefill
+color magenta
+refresh
+# A.Herraez, 4mar2001
+select protein and sidechain
+color [175,214,255]
+restrict not water and not pop
+refresh

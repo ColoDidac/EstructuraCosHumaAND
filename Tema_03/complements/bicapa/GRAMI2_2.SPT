@@ -1,0 +1,9 @@
+select all
+label ""
+select pop
+spacefill off
+wireframe
+select atomno=608
+label "<-DIMERO DE GRAMICIDINA"
+refresh
+script "wave10.spt"

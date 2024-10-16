@@ -1,0 +1,7 @@
+#SHOW SLICE BILAYER WITHOUT WATER
+select lip
+wireframe 0.3
+select phosphorus
+spacefill
+refresh
+script "y90-3.spt"

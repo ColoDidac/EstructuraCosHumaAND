@@ -1,0 +1,18 @@
+#ASSEMBLE TETRAD
+restrict not 148
+select 149
+wireframe 0.4
+select (lip.c15 or lip.c35) and 149
+spacefill
+select 149
+color yellow
+refresh
+
+
+#zoom 500
+#echo Notice how the leg of one PC fits between the legs of the other.
+#refresh
+#script "delay1.spt"
+#script "delay1.spt"
+#zoom 200
+#refresh

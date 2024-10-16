@@ -1,0 +1,15 @@
+zap
+load "slicecbw.pdb"
+script "palmyell.spt"
+SELECT ALL
+wireframe 0.3
+select phosphorus
+spacefill
+rotate y 90
+
+#SHOW TOP SLICE W/O WATER
+restrict 141-160
+zoom 150
+refresh
+script "delay1.spt"
+script "wave5.spt"

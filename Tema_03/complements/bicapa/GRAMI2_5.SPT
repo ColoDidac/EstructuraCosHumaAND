@@ -1,0 +1,5 @@
+slab off
+select not water and not pop
+spacefill off
+wireframe 0.3
+refresh

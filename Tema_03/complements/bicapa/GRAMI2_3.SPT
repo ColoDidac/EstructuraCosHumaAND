@@ -1,0 +1,4 @@
+select protein
+backbone 0.7
+color magenta
+refresh

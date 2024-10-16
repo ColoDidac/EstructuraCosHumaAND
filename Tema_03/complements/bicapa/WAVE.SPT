@@ -1,0 +1,50 @@
+set hourglass off
+#5 x 3 deg = 15 deg X15
+rotate x 3
+refresh
+rotate x 3
+refresh
+rotate x 3
+refresh
+rotate x 3
+refresh
+rotate x 3
+refresh
+
+#5 x -3 deg = -15 deg X0
+rotate x -3
+refresh
+rotate x -3
+refresh
+rotate x -3
+refresh
+rotate x -3
+refresh
+rotate x -3
+refresh
+
+#5 x 3 deg = 15 deg Y15
+rotate y 3
+refresh
+rotate y 3
+refresh
+rotate y 3
+refresh
+rotate y 3
+refresh
+rotate y 3
+refresh
+
+#5 x -3 deg = -15 deg Y0
+rotate y -3
+refresh
+rotate y -3
+refresh
+rotate y -3
+refresh
+rotate y -3
+refresh
+rotate y -3
+refresh
+set hourglass on
+

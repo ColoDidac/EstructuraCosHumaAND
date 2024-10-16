@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0071)http://www.bmrb.wisc.edu/elec_dep/pdb_het_library/gjk_het_files/sam.htm -->
+<HTML><HEAD><TITLE>Listings for PDB Heterogens and Their Codes</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content="MSHTML 5.00.2920.0" name=GENERATOR></HEAD>
+<BODY>
+<H2>PDB Code: SAM</H2><A href="http://xplor.csb.yale.edu/hetero/SAM.html">X-PLOR 
+files</A> 
+<HR>
+
+<H3>Heterogen file generated from the file hetero.pdb</H3><BR><BR><PRE>COMPND SAM S-ADENOSYLMETHIONINE
+REMARK SAM Extracted from PDB file 1cmc.pdb
+REMARK SAM Formula C15 H22 N6 O5 S1
+REMARK SAM Nr of non-hydrogen atoms 27
+REMARK SAM Residue type SAM
+REMARK SAM Residue name 960
+REMARK SAM Original residue name (for O) $A105
+REMARK   2 RESOLUTION. 1.8  ANGSTROMS.                                  1CMC  16 SAM
+REMARK SAM Compound also present in : 1VPT 1VID 1ADM 1HMY 1CMA
+HETATM    1  N   SAM   960      -5.330   1.723  -1.358  1.00 20.00      1CMC
+HETATM    2  CA  SAM   960      -4.500   0.580  -0.803  1.00 20.00      1CMC
+HETATM    3  C   SAM   960      -5.019  -0.709  -1.530  1.00 20.00      1CMC
+HETATM    4  O   SAM   960      -6.195  -0.668  -2.020  1.00 20.00      1CMC
+HETATM    5  OXT SAM   960      -4.208  -1.664  -1.682  1.00 20.00      1CMC
+HETATM    6  CB  SAM   960      -4.466   0.499   0.705  1.00 20.00      1CMC
+HETATM    7  CG  SAM   960      -3.847  -0.646   1.529  1.00 20.00      1CMC
+HETATM    8  SD  SAM   960      -2.322  -1.332   0.761  1.00 20.00      1CMC
+HETATM    9  CE  SAM   960      -2.515  -3.098   0.658  1.00 20.00      1CMC
+HETATM   10  C5* SAM   960      -1.269  -0.981   2.157  1.00 20.00      1CMC
+HETATM   11  C4* SAM   960       0.173  -1.324   1.961  1.00 20.00      1CMC
+HETATM   12  O4* SAM   960       0.585  -1.051   0.600  1.00 20.00      1CMC
+HETATM   13  C3* SAM   960       1.211  -0.532   2.741  1.00 20.00      1CMC
+HETATM   14  O3* SAM   960       1.223  -0.875   4.102  1.00 20.00      1CMC
+HETATM   15  C2* SAM   960       2.534  -0.958   2.002  1.00 20.00      1CMC
+HETATM   16  O2* SAM   960       3.483  -1.734   2.625  1.00 20.00      1CMC
+HETATM   17  C1* SAM   960       2.022  -1.352   0.626  1.00 20.00      1CMC
+HETATM   18  N9  SAM   960       2.442  -0.479  -0.464  1.00 20.00      1CMC
+HETATM   19  C8  SAM   960       2.930  -0.975  -1.647  1.00 20.00      1CMC
+HETATM   20  N7  SAM   960       3.207  -0.036  -2.456  1.00 20.00      1CMC
+HETATM   21  C5  SAM   960       3.023   1.136  -1.736  1.00 20.00      1CMC
+HETATM   22  C6  SAM   960       3.163   2.505  -2.157  1.00 20.00      1CMC
+HETATM   23  N6  SAM   960       3.635   2.816  -3.353  1.00 20.00      1CMC
+HETATM   24  N1  SAM   960       2.806   3.368  -1.230  1.00 20.00      1CMC
+HETATM   25  C2  SAM   960       2.423   3.052   0.020  1.00 20.00      1CMC
+HETATM   26  N3  SAM   960       2.242   1.819   0.436  1.00 20.00      1CMC
+HETATM   27  C4  SAM   960       2.561   0.914  -0.488  1.00 20.00      1CMC
+CONECT    3   4   4
+CONECT    4   3   3
+CONECT   19  20  20
+CONECT   20  19  19
+CONECT   21  27  27
+CONECT   27  21  21
+CONECT   22  24  24
+CONECT   24  22  22
+CONECT   25  26  26
+CONECT   26  25  25
+REMARK SAM ENDHET
+REMARK
+</PRE></BODY></HTML>

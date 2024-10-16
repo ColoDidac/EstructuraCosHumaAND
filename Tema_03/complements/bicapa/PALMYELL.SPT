@@ -1,0 +1,6 @@
+#This is palmitic
+select lip.c1 or lip.c2 or lip.c3 or lip.c4 or lip.c5 or lip.c6
+select selected or lip.c7 or lip.c8 or lip.c9 or lip.c10 or lip.c11
+select selected or lip.c12 or lip.c13 or lip.c14 or lip.c15 or lip.c16
+color [200,200,140] #dull yellow gray for saturated arms
+

@@ -1,0 +1,5 @@
+script "palmitoy.spt"
+wireframe 0.5
+script "palmyelh.spt"
+refresh
+script "x90-3.spt"

@@ -1,0 +1,5 @@
+wireframe 0.2
+script "choline.spt"
+wireframe 0.5
+refresh
+script "x90-3.spt"

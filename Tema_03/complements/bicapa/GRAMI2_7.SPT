@@ -1,0 +1,6 @@
+zoom 130
+script "gramlab.spt"
+select atomno=3900
+label "         GRAMICIDINA"
+translate x -12
+refresh

@@ -1,0 +1,15 @@
+#to get rid of funny colors
+select all
+
+select 145-156
+wireframe 0.3
+select 145-156 and (nitrogen or phosphorus)
+spacefill
+refresh
+script "delay3.spt"
+
+select all
+wireframe 0.3
+select nitrogen or phosphorus
+spacefill
+refresh

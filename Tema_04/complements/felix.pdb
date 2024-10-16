@@ -1,0 +1,728 @@
+HEADER    FELIX                                   08-AUG-90   1FLX      1FLX   2
+COMPND    FELIX (DE NOVO DESIGNED PROTEIN) (MODEL 1) (THEORETICAL       1FLXA  1
+COMPND   2 MODEL)                                                       1FLXA  2
+SOURCE    RECOMBINANT USING A DE NOVO DESIGNED GENE EXPRESSED IN        1FLX   4
+SOURCE   2 (ESCHERICHIA $COLI)                                          1FLX   5
+EXPDTA    THEORETICAL MODEL                                             1FLXA  3
+AUTHOR    T.P.QUINN,D.C.RICHARDSON,J.S.RICHARDSON                       1FLX   6
+REVDAT   2   15-OCT-94 1FLXA   1       COMPND EXPDTA                    1FLXA  4
+REVDAT   1   15-OCT-91 1FLX    0                                        1FLX   7
+JRNL        AUTH   M.H.HECHT,J.S.RICHARDSON,D.C.RICHARDSON,R.C.OGDEN    1FLX   8
+JRNL        TITL   DE NOVO DESIGN, EXPRESSION, AND CHARACTERIZATION     1FLX   9
+JRNL        TITL 2 OF FELIX: A FOUR-*HELIX BUNDLE PROTEIN OF            1FLX  10
+JRNL        TITL 3 NATIVE-*LIKE SEQUENCE                                1FLX  11
+JRNL        REF    SCIENCE                       V. 249   884 1990      1FLX  12
+JRNL        REFN   ASTM SCIEAS  US ISSN 0036-8075                  038  1FLX  13
+REMARK   1                                                              1FLX  14
+REMARK   2                                                              1FLX  15
+REMARK   2 RESOLUTION. NOT APPLICABLE.  SEE REMARK 4.                   1FLX  16
+REMARK   3                                                              1FLX  17
+REMARK   3 REFINEMENT. NOT APPLICABLE.  SEE REMARK 5.  THE FELIX        1FLX  18
+REMARK   3  STRUCTURE WAS MODELED USING THE MOLECULAR MODELING          1FLX  19
+REMARK   3  PACKAGE SYBYL (TRIPOS ASSOC.).                              1FLX  20
+REMARK   4                                                              1FLX  21
+REMARK   4 THESE COORDINATES ARE NON-EXPERIMENTAL.  THE MODEL           1FLX  22
+REMARK   4 COORDINATES ARE BASED ON THE FELIX DESIGN ORIGINALLY         1FLX  23
+REMARK   4 CONCEIVED BY J. RICHARDSON, D. RICHARDSON, R. C. OGDEN AND   1FLX  24
+REMARK   4 STUDENTS (P. GARDNER, A. KHORRAMI, D. PITTERLE,              1FLX  25
+REMARK   4 K. SCHANDEL, AND S. SLEZINSKA GARDLIK) DURING A GRADUATE     1FLX  26
+REMARK   4 SEMINAR COURSE.  THE BASIC CRITERIA FOR THE DESIGN OF FELIX  1FLX  27
+REMARK   4 WERE THAT IT SHOULD CONTAIN NATURAL AMINO ACIDS IN A         1FLX  28
+REMARK   4 "NATIVE-LIKE" SEQUENCE, BUT WITHOUT HOMOLOGY TO ANY KNOWN    1FLX  29
+REMARK   4 NATURAL PROTEIN SEQUENCE.  THE STRUCTURAL MOTIF CHOSEN FOR   1FLX  30
+REMARK   4 FELIX WAS A SIMPLE UP AND DOWN FOUR HELIX BUNDLE PROTEIN.    1FLX  31
+REMARK   4 THIS HELICAL MOTIF WAS CHOSEN BECAUSE IT WAS SMALL, HELICAL  1FLX  32
+REMARK   4 STRUCTURES HAVE BEEN THE FOCUS OF EXTENSIVE EXPERIMENTAL     1FLX  33
+REMARK   4 AND EMPIRICAL RESEARCH, AND THE FOUR HELIX BUNDLE MOTIF HAS  1FLX  34
+REMARK   4 BEEN OBSERVED IN MANY NATURALLY OCCURRING PROTEINS (SEE      1FLX  35
+REMARK   4 PROTEIN DATA BANK ENTRIES 2MHR, 1HMQ, 156B, 3B5C, 2CCY,      1FLX  36
+REMARK   4 1UTG, AND 2TMV).                                             1FLX  37
+REMARK   5                                                              1FLX  38
+REMARK   5 THE FELIX STRUCTURES WERE MODELED USING THE MOLECULAR        1FLX  39
+REMARK   5 MODELING PACKAGE SYBYL (TRIPOS ASSOC.), RUNNING ON AN EVANS  1FLX  40
+REMARK   5 AND SUTHERLAND PS390 AND MICROVAX 3500 AT THE DUKE CANCER    1FLX  41
+REMARK   5 CENTER SHARED RESOURCE FOR MACROMOLECULAR GRAPHICS.  THE     1FLX  42
+REMARK   5 TWO FELIX MODELS REPRESENT THE PRECISION OF THE MODELING     1FLX  43
+REMARK   5 PROCESS.  EACH MODEL REFLECTS A DIFFERENT APPROACH TO        1FLX  44
+REMARK   5 DOCKING, CONNECTING AND PACKING THE HELICES OF FELIX.        1FLX  45
+REMARK   5 MOLECULAR CONTACTS, BOND LENGTHS AND BOND GEOMETRIES WERE    1FLX  46
+REMARK   5 REGULARIZED USING SYBYL.  THE TWO MODELS ARE PRESENTED       1FLX  47
+REMARK   5 SEPARATELY IN PROTEIN DATA BANK ENTRIES 1FLX AND 3FLX.       1FLX  48
+REMARK   6                                                              1FLX  49
+REMARK   6 THE TWO FELIX MODELS ARE DESIGNATED FELIX_JH AND FELIX_HMQ   1FLX  50
+REMARK   6 AND ARE ASSOCIATED WITH THE FIRST AND SECOND COORDINATE      1FLX  51
+REMARK   6 SETS RESPECTIVELY.  THE FELIX_JH STRUCTURE (MODEL 1,         1FLX  52
+REMARK   6 PROTEIN DATA BANK ENTRY 1FLX) WAS MODELED BY FIRST SETTING   1FLX  53
+REMARK   6 THE DISULFIDE DISTANCE AND GEOMETRY BETWEEN HELICES ONE AND  1FLX  54
+REMARK   6 FOUR.  THE DISTANCES BETWEEN CENTERS OF ADJACENT HELICES     1FLX  55
+REMARK   6 WERE SET TO APPROXIMATELY 10 ANGSTROMS AND AT ANGLES +10 TO  1FLX  56
+REMARK   6 +15 DEGREES WHICH ARE COMMONLY FOUND IN FOUR HELIX BUNDLES.  1FLX  57
+REMARK   6 THE CONFORMATIONS FOR THE SIDECHAINS WERE MODELED USING ONE  1FLX  58
+REMARK   6 OF THE PREFERRED CHI1 VALUES FOR THAT RESIDUE IN NATURAL     1FLX  59
+REMARK   6 HELICES.  LARGE HYDROPHOBIC SIDECHAINS WERE POSITIONED IN    1FLX  60
+REMARK   6 THE INTERIOR OF THE BUNDLE, PACKED AGAINST ONE ANOTHER AND   1FLX  61
+REMARK   6 CONTACTING THE MAIN CHAIN OF AN ADJACENT HELIX AS OBSERVED   1FLX  62
+REMARK   6 IN NATURAL HELIX BUNDLES.  LIKEWISE, THE EXTERIOR            1FLX  63
+REMARK   6 SIDECHAINS WERE MODELED USING PREFERRED CHI1 VALUES FOR      1FLX  64
+REMARK   6 THAT RESIDUE FOUND IN HELICES.                               1FLX  65
+REMARK   7                                                              1FLX  66
+REMARK   7 THE FELIX_HMQ MODEL (MODEL 2, PROTEIN DATA BANK ENTRY 3FLX)  1FLX  67
+REMARK   7 WAS BUILT USING THE BACKBONE STRUCTURE FROM HEMERYTHRIN      1FLX  68
+REMARK   7 (1HMQ) AS A STARTING TEMPLATE FOR THE DISTANCES BETWEEN      1FLX  69
+REMARK   7 ADJACENT HELICES AND THE HELIX-HELIX OFFSET ANGLES.  THE     1FLX  70
+REMARK   7 HELICES WERE JOINED USING TURNS MODELED FROM TURN            1FLX  71
+REMARK   7 CONFORMATIONS FOUND IN NATURAL FOUR HELIX BUNDLE PROTEINS.   1FLX  72
+REMARK   7 THE BETA-CARBONS WERE ADDED TO THE MAINCHAIN TO HELP         1FLX  73
+REMARK   7 VISUALIZE THE DIRECTION SIDECHAINS PROCEED FROM THE          1FLX  74
+REMARK   7 MAINCHAIN AND THE CLOSEST APPROACH OF TWO HELICES.  FIRST    1FLX  75
+REMARK   7 THE BULKY RING STRUCTURES WERE PACKED AGAINST ONE ANOTHER    1FLX  76
+REMARK   7 AND THE MAINCHAIN CONTAINING THE BETACARBONS.  NEXT THE      1FLX  77
+REMARK   7 LONG FLEXIBLE HYDROPHOBIC SIDECHAINS WERE POSITIONED         1FLX  78
+REMARK   7 AROUND THE BULKY SIDECHAINS TO COMPLETE THE HYDROPHOBIC      1FLX  79
+REMARK   7 CORE OF THE STRUCTURE.  LASTLY, THE EXTERIOR SIDECHAINS      1FLX  80
+REMARK   7 WERE ADDED TO THE MODEL.  ALL OF THE SIDECHAINS IN           1FLX  81
+REMARK   7 FELIX_HMQ WERE INITIALLY SET TO ONE OF THE PREFERRED CHI1    1FLX  82
+REMARK   7 ANGLES FOR THAT RESIDUE IN NATURAL HELICAL PROTEINS.         1FLX  83
+REMARK   8                                                              1FLX  84
+REMARK   8 MET 1 IS REMOVED WHEN FELIX IS EXPRESSED IN E. COLI.         1FLX  85
+REMARK   9                                                              1FLX  86
+REMARK   9 THE COORDINATES IN THIS ENTRY REPRESENT A MODEL STRUCTURE.   1FLX  87
+REMARK   9 THE QUANTITIES PRESENTED ON THE *CRYST1* AND *SCALE*         1FLX  88
+REMARK   9 RECORDS BELOW ARE DUMMY VALUES.                              1FLX  89
+REMARK  10                                                              1FLXA  5
+REMARK  10 CORRECTION. ADD THEORETICAL MODEL INFORMATION TO COMPND      1FLXA  6
+REMARK  10  RECORD.  ADD EXPDTA RECORD.  15-OCT-94.                     1FLXA  7
+SEQRES   1     79  MET PRO GLU VAL ALA GLU ASN PHE GLN GLN CYS LEU GLU  1FLX  90
+SEQRES   2     79  ARG TRP ALA LYS LEU SER VAL GLY GLY GLU LEU ALA HIS  1FLX  91
+SEQRES   3     79  MET ALA ASN GLN ALA ALA GLU ALA ILE LEU LYS GLY GLY  1FLX  92
+SEQRES   4     79  ASN GLU ALA GLN LEU LYS ASN ALA GLN ALA LEU MET HIS  1FLX  93
+SEQRES   5     79  GLU ALA MET LYS THR ARG LYS TYR SER GLU GLN LEU ALA  1FLX  94
+SEQRES   6     79  GLN GLU PHE ALA HIS CYS ALA TYR LYS ALA ARG ALA SER  1FLX  95
+SEQRES   7     79  GLN                                                  1FLX  96
+HELIX    1   A MET      1  SER     19  1                                1FLX  97
+HELIX    2   B GLY     22  GLY     38  1                                1FLX  98
+HELIX    3   C ASN     40  ARG     58  1                                1FLX  99
+HELIX    4   D SER     61  GLN     79  1                                1FLX 100
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1  1FLX 101
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1FLX 102
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1FLX 103
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1FLX 104
+SCALE1      1.000000  0.000000  0.000000        0.00000                 1FLX 105
+SCALE2      0.000000  1.000000  0.000000        0.00000                 1FLX 106
+SCALE3      0.000000  0.000000  1.000000        0.00000                 1FLX 107
+ATOM      1  N   MET     1       4.612 -12.411  -3.171  1.00  0.00      1FLX 108
+ATOM      2  CA  MET     1       4.253 -12.240  -1.774  1.00  0.00      1FLX 109
+ATOM      3  C   MET     1       5.427 -11.689  -0.944  1.00  0.00      1FLX 110
+ATOM      4  O   MET     1       5.298 -10.578  -0.439  1.00  0.00      1FLX 111
+ATOM      5  CB  MET     1       3.614 -13.520  -1.199  1.00  0.00      1FLX 112
+ATOM      6  CG  MET     1       3.333 -13.386   0.306  1.00  0.00      1FLX 113
+ATOM      7  SD  MET     1       2.459 -14.787   1.059  1.00  0.00      1FLX 114
+ATOM      8  CE  MET     1       2.665 -14.344   2.807  1.00  0.00      1FLX 115
+ATOM      9  N   PRO     2       6.554 -12.412  -0.754  1.00  0.00      1FLX 116
+ATOM     10  CA  PRO     2       7.662 -11.977   0.103  1.00  0.00      1FLX 117
+ATOM     11  C   PRO     2       8.277 -10.634  -0.334  1.00  0.00      1FLX 118
+ATOM     12  O   PRO     2       8.103  -9.636   0.363  1.00  0.00      1FLX 119
+ATOM     13  CB  PRO     2       8.661 -13.147   0.112  1.00  0.00      1FLX 120
+ATOM     14  CG  PRO     2       8.372 -13.859  -1.212  1.00  0.00      1FLX 121
+ATOM     15  CD  PRO     2       6.851 -13.733  -1.289  1.00  0.00      1FLX 122
+ATOM     16  N   GLU     3       8.980 -10.600  -1.477  1.00  0.00      1FLX 123
+ATOM     17  CA  GLU     3       9.594  -9.402  -2.048  1.00  0.00      1FLX 124
+ATOM     18  C   GLU     3       8.543  -8.314  -2.308  1.00  0.00      1FLX 125
+ATOM     19  O   GLU     3       8.778  -7.148  -1.998  1.00  0.00      1FLX 126
+ATOM     20  CB  GLU     3      10.359  -9.797  -3.328  1.00  0.00      1FLX 127
+ATOM     21  CG  GLU     3      11.135  -8.649  -4.004  1.00  0.00      1FLX 128
+ATOM     22  CD  GLU     3      10.253  -7.613  -4.711  1.00  0.00      1FLX 129
+ATOM     23  OE1 GLU     3       9.328  -8.049  -5.437  1.00  0.00      1FLX 130
+ATOM     24  OE2 GLU     3      10.518  -6.408  -4.523  1.00  0.00      1FLX 131
+ATOM     25  N   VAL     4       7.391  -8.702  -2.873  1.00  0.00      1FLX 132
+ATOM     26  CA  VAL     4       6.287  -7.812  -3.219  1.00  0.00      1FLX 133
+ATOM     27  C   VAL     4       5.737  -7.075  -1.981  1.00  0.00      1FLX 134
+ATOM     28  O   VAL     4       5.492  -5.874  -2.058  1.00  0.00      1FLX 135
+ATOM     29  CB  VAL     4       5.195  -8.591  -3.984  1.00  0.00      1FLX 136
+ATOM     30  CG1 VAL     4       4.032  -7.671  -4.374  1.00  0.00      1FLX 137
+ATOM     31  CG2 VAL     4       5.760  -9.220  -5.274  1.00  0.00      1FLX 138
+ATOM     32  N   ALA     5       5.558  -7.774  -0.848  1.00  0.00      1FLX 139
+ATOM     33  CA  ALA     5       5.094  -7.194   0.416  1.00  0.00      1FLX 140
+ATOM     34  C   ALA     5       6.100  -6.173   0.960  1.00  0.00      1FLX 141
+ATOM     35  O   ALA     5       5.702  -5.076   1.340  1.00  0.00      1FLX 142
+ATOM     36  CB  ALA     5       4.815  -8.288   1.456  1.00  0.00      1FLX 143
+ATOM     37  N   GLU     6       7.398  -6.517   0.986  1.00  0.00      1FLX 144
+ATOM     38  CA  GLU     6       8.477  -5.630   1.425  1.00  0.00      1FLX 145
+ATOM     39  C   GLU     6       8.511  -4.354   0.570  1.00  0.00      1FLX 146
+ATOM     40  O   GLU     6       8.569  -3.254   1.117  1.00  0.00      1FLX 147
+ATOM     41  CB  GLU     6       9.823  -6.374   1.395  1.00  0.00      1FLX 148
+ATOM     42  CG  GLU     6       9.844  -7.525   2.418  1.00  0.00      1FLX 149
+ATOM     43  CD  GLU     6      11.133  -8.352   2.393  1.00  0.00      1FLX 150
+ATOM     44  OE1 GLU     6      11.784  -8.389   1.323  1.00  0.00      1FLX 151
+ATOM     45  OE2 GLU     6      11.443  -8.946   3.447  1.00  0.00      1FLX 152
+ATOM     46  N   ASN     7       8.437  -4.499  -0.764  1.00  0.00      1FLX 153
+ATOM     47  CA  ASN     7       8.332  -3.398  -1.719  1.00  0.00      1FLX 154
+ATOM     48  C   ASN     7       7.107  -2.520  -1.415  1.00  0.00      1FLX 155
+ATOM     49  O   ASN     7       7.207  -1.295  -1.478  1.00  0.00      1FLX 156
+ATOM     50  CB  ASN     7       8.288  -3.963  -3.151  1.00  0.00      1FLX 157
+ATOM     51  CG  ASN     7       8.233  -2.872  -4.228  1.00  0.00      1FLX 158
+ATOM     52  OD1 ASN     7       9.263  -2.480  -4.772  1.00  0.00      1FLX 159
+ATOM     53  ND2 ASN     7       7.029  -2.382  -4.544  1.00  0.00      1FLX 160
+ATOM     54  N   PHE     8       5.961  -3.137  -1.080  1.00  0.00      1FLX 161
+ATOM     55  CA  PHE     8       4.720  -2.436  -0.763  1.00  0.00      1FLX 162
+ATOM     56  C   PHE     8       4.916  -1.601   0.513  1.00  0.00      1FLX 163
+ATOM     57  O   PHE     8       4.733  -0.390   0.458  1.00  0.00      1FLX 164
+ATOM     58  CB  PHE     8       3.543  -3.433  -0.683  1.00  0.00      1FLX 165
+ATOM     59  CG  PHE     8       2.111  -2.903  -0.768  1.00  0.00      1FLX 166
+ATOM     60  CD1 PHE     8       1.059  -3.687  -0.240  1.00  0.00      1FLX 167
+ATOM     61  CD2 PHE     8       1.800  -1.674  -1.402  1.00  0.00      1FLX 168
+ATOM     62  CE1 PHE     8      -0.285  -3.286  -0.400  1.00  0.00      1FLX 169
+ATOM     63  CE2 PHE     8       0.456  -1.273  -1.565  1.00  0.00      1FLX 170
+ATOM     64  CZ  PHE     8      -0.586  -2.088  -1.077  1.00  0.00      1FLX 171
+ATOM     65  N   GLN     9       5.330  -2.225   1.632  1.00  0.00      1FLX 172
+ATOM     66  CA  GLN     9       5.654  -1.566   2.905  1.00  0.00      1FLX 173
+ATOM     67  C   GLN     9       6.590  -0.366   2.715  1.00  0.00      1FLX 174
+ATOM     68  O   GLN     9       6.347   0.688   3.295  1.00  0.00      1FLX 175
+ATOM     69  CB  GLN     9       6.320  -2.547   3.883  1.00  0.00      1FLX 176
+ATOM     70  CG  GLN     9       5.386  -3.649   4.405  1.00  0.00      1FLX 177
+ATOM     71  CD  GLN     9       6.043  -4.547   5.462  1.00  0.00      1FLX 178
+ATOM     72  OE1 GLN     9       5.347  -5.109   6.305  1.00  0.00      1FLX 179
+ATOM     73  NE2 GLN     9       7.373  -4.689   5.445  1.00  0.00      1FLX 180
+ATOM     74  N   GLN    10       7.650  -0.522   1.908  1.00  0.00      1FLX 181
+ATOM     75  CA  GLN    10       8.596   0.538   1.569  1.00  0.00      1FLX 182
+ATOM     76  C   GLN    10       7.885   1.716   0.890  1.00  0.00      1FLX 183
+ATOM     77  O   GLN    10       8.190   2.861   1.207  1.00  0.00      1FLX 184
+ATOM     78  CB  GLN    10       9.727  -0.029   0.694  1.00  0.00      1FLX 185
+ATOM     79  CG  GLN    10      10.703  -0.876   1.533  1.00  0.00      1FLX 186
+ATOM     80  CD  GLN    10      11.686  -1.697   0.688  1.00  0.00      1FLX 187
+ATOM     81  OE1 GLN    10      11.963  -2.853   1.010  1.00  0.00      1FLX 188
+ATOM     82  NE2 GLN    10      12.214  -1.116  -0.395  1.00  0.00      1FLX 189
+ATOM     83  N   CYS    11       6.934   1.444  -0.016  1.00  0.00      1FLX 190
+ATOM     84  CA  CYS    11       6.119   2.448  -0.702  1.00  0.00      1FLX 191
+ATOM     85  C   CYS    11       5.052   3.086   0.216  1.00  0.00      1FLX 192
+ATOM     86  O   CYS    11       4.703   4.247  -0.001  1.00  0.00      1FLX 193
+ATOM     87  CB  CYS    11       5.521   1.857  -1.989  1.00  0.00      1FLX 194
+ATOM     88  SG  CYS    11       6.871   1.425  -3.137  1.00  0.00      1FLX 195
+ATOM     89  N   LEU    12       4.557   2.371   1.245  1.00  0.00      1FLX 196
+ATOM     90  CA  LEU    12       3.690   2.939   2.279  1.00  0.00      1FLX 197
+ATOM     91  C   LEU    12       4.504   3.866   3.196  1.00  0.00      1FLX 198
+ATOM     92  O   LEU    12       4.095   5.000   3.435  1.00  0.00      1FLX 199
+ATOM     93  CB  LEU    12       2.979   1.853   3.116  1.00  0.00      1FLX 200
+ATOM     94  CG  LEU    12       1.728   1.178   2.518  1.00  0.00      1FLX 201
+ATOM     95  CD1 LEU    12       0.689   2.219   2.098  1.00  0.00      1FLX 202
+ATOM     96  CD2 LEU    12       1.986   0.224   1.350  1.00  0.00      1FLX 203
+ATOM     97  N   GLU    13       5.650   3.388   3.700  1.00  0.00      1FLX 204
+ATOM     98  CA  GLU    13       6.594   4.134   4.531  1.00  0.00      1FLX 205
+ATOM     99  C   GLU    13       7.052   5.415   3.811  1.00  0.00      1FLX 206
+ATOM    100  O   GLU    13       6.974   6.496   4.388  1.00  0.00      1FLX 207
+ATOM    101  CB  GLU    13       7.768   3.211   4.908  1.00  0.00      1FLX 208
+ATOM    102  CG  GLU    13       8.774   3.884   5.858  1.00  0.00      1FLX 209
+ATOM    103  CD  GLU    13       9.931   2.959   6.258  1.00  0.00      1FLX 210
+ATOM    104  OE1 GLU    13      11.035   3.498   6.486  1.00  0.00      1FLX 211
+ATOM    105  OE2 GLU    13       9.696   1.730   6.337  1.00  0.00      1FLX 212
+ATOM    106  N   ARG    14       7.488   5.287   2.546  1.00  0.00      1FLX 213
+ATOM    107  CA  ARG    14       7.808   6.368   1.608  1.00  0.00      1FLX 214
+ATOM    108  C   ARG    14       6.735   7.462   1.700  1.00  0.00      1FLX 215
+ATOM    109  O   ARG    14       7.021   8.553   2.180  1.00  0.00      1FLX 216
+ATOM    110  CB  ARG    14       7.902   5.751   0.197  1.00  0.00      1FLX 217
+ATOM    111  CG  ARG    14       7.814   6.671  -1.033  1.00  0.00      1FLX 218
+ATOM    112  CD  ARG    14       9.126   7.366  -1.414  1.00  0.00      1FLX 219
+ATOM    113  NE  ARG    14       9.178   7.576  -2.871  1.00  0.00      1FLX 220
+ATOM    114  CZ  ARG    14      10.226   8.028  -3.578  1.00  0.00      1FLX 221
+ATOM    115  NH1 ARG    14      10.139   8.080  -4.913  1.00  0.00      1FLX 222
+ATOM    116  NH2 ARG    14      11.356   8.424  -2.974  1.00  0.00      1FLX 223
+ATOM    117  N   TRP    15       5.506   7.150   1.266  1.00  0.00      1FLX 224
+ATOM    118  CA  TRP    15       4.334   8.023   1.277  1.00  0.00      1FLX 225
+ATOM    119  C   TRP    15       4.080   8.684   2.647  1.00  0.00      1FLX 226
+ATOM    120  O   TRP    15       3.898   9.901   2.708  1.00  0.00      1FLX 227
+ATOM    121  CB  TRP    15       3.132   7.189   0.800  1.00  0.00      1FLX 228
+ATOM    122  CG  TRP    15       1.766   7.786   0.943  1.00  0.00      1FLX 229
+ATOM    123  CD1 TRP    15       1.407   9.065   0.691  1.00  0.00      1FLX 230
+ATOM    124  CD2 TRP    15       0.556   7.109   1.387  1.00  0.00      1FLX 231
+ATOM    125  NE1 TRP    15       0.066   9.228   0.967  1.00  0.00      1FLX 232
+ATOM    126  CE2 TRP    15      -0.514   8.054   1.402  1.00  0.00      1FLX 233
+ATOM    127  CE3 TRP    15       0.258   5.784   1.784  1.00  0.00      1FLX 234
+ATOM    128  CZ2 TRP    15      -1.815   7.701   1.803  1.00  0.00      1FLX 235
+ATOM    129  CZ3 TRP    15      -1.047   5.414   2.168  1.00  0.00      1FLX 236
+ATOM    130  CH2 TRP    15      -2.078   6.372   2.193  1.00  0.00      1FLX 237
+ATOM    131  N   ALA    16       4.065   7.895   3.733  1.00  0.00      1FLX 238
+ATOM    132  CA  ALA    16       3.805   8.361   5.096  1.00  0.00      1FLX 239
+ATOM    133  C   ALA    16       4.816   9.436   5.532  1.00  0.00      1FLX 240
+ATOM    134  O   ALA    16       4.428  10.555   5.866  1.00  0.00      1FLX 241
+ATOM    135  CB  ALA    16       3.795   7.165   6.061  1.00  0.00      1FLX 242
+ATOM    136  N   LYS    17       6.111   9.089   5.515  1.00  0.00      1FLX 243
+ATOM    137  CA  LYS    17       7.232   9.954   5.886  1.00  0.00      1FLX 244
+ATOM    138  C   LYS    17       7.320  11.202   4.985  1.00  0.00      1FLX 245
+ATOM    139  O   LYS    17       7.504  12.309   5.492  1.00  0.00      1FLX 246
+ATOM    140  CB  LYS    17       8.546   9.147   5.830  1.00  0.00      1FLX 247
+ATOM    141  CG  LYS    17       8.597   7.929   6.774  1.00  0.00      1FLX 248
+ATOM    142  CD  LYS    17       8.689   8.299   8.263  1.00  0.00      1FLX 249
+ATOM    143  CE  LYS    17       8.618   7.060   9.172  1.00  0.00      1FLX 250
+ATOM    144  NZ  LYS    17       9.687   6.083   8.896  1.00  0.00      1FLX 251
+ATOM    145  N   LEU    18       7.196  11.017   3.660  1.00  0.00      1FLX 252
+ATOM    146  CA  LEU    18       7.297  12.051   2.627  1.00  0.00      1FLX 253
+ATOM    147  C   LEU    18       6.339  13.220   2.893  1.00  0.00      1FLX 254
+ATOM    148  O   LEU    18       6.791  14.365   2.930  1.00  0.00      1FLX 255
+ATOM    149  CB  LEU    18       7.092  11.395   1.242  1.00  0.00      1FLX 256
+ATOM    150  CG  LEU    18       7.293  12.235  -0.038  1.00  0.00      1FLX 257
+ATOM    151  CD1 LEU    18       6.198  13.281  -0.291  1.00  0.00      1FLX 258
+ATOM    152  CD2 LEU    18       8.683  12.885  -0.096  1.00  0.00      1FLX 259
+ATOM    153  N   SER    19       5.035  12.943   3.073  1.00  0.00      1FLX 260
+ATOM    154  CA  SER    19       4.006  13.967   3.256  1.00  0.00      1FLX 261
+ATOM    155  C   SER    19       3.043  13.637   4.411  1.00  0.00      1FLX 262
+ATOM    156  O   SER    19       3.370  13.889   5.571  1.00  0.00      1FLX 263
+ATOM    157  CB  SER    19       3.305  14.251   1.912  1.00  0.00      1FLX 264
+ATOM    158  OG  SER    19       2.732  13.086   1.353  1.00  0.00      1FLX 265
+ATOM    159  N   VAL    20       1.841  13.134   4.090  1.00  0.00      1FLX 266
+ATOM    160  CA  VAL    20       0.703  13.002   4.998  1.00  0.00      1FLX 267
+ATOM    161  C   VAL    20       0.964  12.049   6.175  1.00  0.00      1FLX 268
+ATOM    162  O   VAL    20       1.578  10.997   6.004  1.00  0.00      1FLX 269
+ATOM    163  CB  VAL    20      -0.555  12.623   4.183  1.00  0.00      1FLX 270
+ATOM    164  CG1 VAL    20      -0.468  11.204   3.595  1.00  0.00      1FLX 271
+ATOM    165  CG2 VAL    20      -1.837  12.779   5.017  1.00  0.00      1FLX 272
+ATOM    166  N   GLY    21       0.482  12.432   7.368  1.00  0.00      1FLX 273
+ATOM    167  CA  GLY    21       0.572  11.667   8.607  1.00  0.00      1FLX 274
+ATOM    168  C   GLY    21      -0.816  11.511   9.235  1.00  0.00      1FLX 275
+ATOM    169  O   GLY    21      -1.019  11.886  10.389  1.00  0.00      1FLX 276
+ATOM    170  N   GLY    22      -1.766  10.957   8.465  1.00  0.00      1FLX 277
+ATOM    171  CA  GLY    22      -3.158  10.746   8.854  1.00  0.00      1FLX 278
+ATOM    172  C   GLY    22      -3.489   9.266   9.065  1.00  0.00      1FLX 279
+ATOM    173  O   GLY    22      -2.614   8.400   8.984  1.00  0.00      1FLX 280
+ATOM    174  N   GLU    23      -4.778   8.989   9.328  1.00  0.00      1FLX 281
+ATOM    175  CA  GLU    23      -5.312   7.645   9.523  1.00  0.00      1FLX 282
+ATOM    176  C   GLU    23      -5.024   6.774   8.293  1.00  0.00      1FLX 283
+ATOM    177  O   GLU    23      -4.544   5.653   8.436  1.00  0.00      1FLX 284
+ATOM    178  CB  GLU    23      -6.825   7.672   9.828  1.00  0.00      1FLX 285
+ATOM    179  CG  GLU    23      -7.197   8.439  11.111  1.00  0.00      1FLX 286
+ATOM    180  CD  GLU    23      -7.715   9.854  10.836  1.00  0.00      1FLX 287
+ATOM    181  OE1 GLU    23      -8.909   9.963  10.482  1.00  0.00      1FLX 288
+ATOM    182  OE2 GLU    23      -6.918  10.805  10.998  1.00  0.00      1FLX 289
+ATOM    183  N   LEU    24      -5.300   7.302   7.088  1.00  0.00      1FLX 290
+ATOM    184  CA  LEU    24      -5.074   6.640   5.805  1.00  0.00      1FLX 291
+ATOM    185  C   LEU    24      -3.668   6.030   5.629  1.00  0.00      1FLX 292
+ATOM    186  O   LEU    24      -3.541   5.039   4.914  1.00  0.00      1FLX 293
+ATOM    187  CB  LEU    24      -5.470   7.557   4.628  1.00  0.00      1FLX 294
+ATOM    188  CG  LEU    24      -4.936   9.011   4.595  1.00  0.00      1FLX 295
+ATOM    189  CD1 LEU    24      -3.426   9.160   4.824  1.00  0.00      1FLX 296
+ATOM    190  CD2 LEU    24      -5.295   9.622   3.230  1.00  0.00      1FLX 297
+ATOM    191  N   ALA    25      -2.629   6.586   6.271  1.00  0.00      1FLX 298
+ATOM    192  CA  ALA    25      -1.250   6.117   6.192  1.00  0.00      1FLX 299
+ATOM    193  C   ALA    25      -1.030   4.983   7.198  1.00  0.00      1FLX 300
+ATOM    194  O   ALA    25      -0.595   3.903   6.807  1.00  0.00      1FLX 301
+ATOM    195  CB  ALA    25      -0.286   7.290   6.424  1.00  0.00      1FLX 302
+ATOM    196  N   HIS    26      -1.339   5.227   8.482  1.00  0.00      1FLX 303
+ATOM    197  CA  HIS    26      -1.208   4.274   9.587  1.00  0.00      1FLX 304
+ATOM    198  C   HIS    26      -1.999   2.980   9.325  1.00  0.00      1FLX 305
+ATOM    199  O   HIS    26      -1.455   1.885   9.467  1.00  0.00      1FLX 306
+ATOM    200  CB  HIS    26      -1.623   4.958  10.902  1.00  0.00      1FLX 307
+ATOM    201  CG  HIS    26      -0.808   6.193  11.225  1.00  0.00      1FLX 308
+ATOM    202  ND1 HIS    26       0.569   6.281  11.210  1.00  0.00      1FLX 309
+ATOM    203  CD2 HIS    26      -1.291   7.425  11.575  1.00  0.00      1FLX 310
+ATOM    204  CE1 HIS    26       0.897   7.539  11.539  1.00  0.00      1FLX 311
+ATOM    205  NE2 HIS    26      -0.201   8.278  11.771  1.00  0.00      1FLX 312
+ATOM    206  N   MET    27      -3.271   3.110   8.917  1.00  0.00      1FLX 313
+ATOM    207  CA  MET    27      -4.155   2.020   8.499  1.00  0.00      1FLX 314
+ATOM    208  C   MET    27      -3.530   1.215   7.344  1.00  0.00      1FLX 315
+ATOM    209  O   MET    27      -3.543  -0.016   7.367  1.00  0.00      1FLX 316
+ATOM    210  CB  MET    27      -5.516   2.605   8.067  1.00  0.00      1FLX 317
+ATOM    211  CG  MET    27      -6.334   3.183   9.233  1.00  0.00      1FLX 318
+ATOM    212  SD  MET    27      -7.054   1.979  10.387  1.00  0.00      1FLX 319
+ATOM    213  CE  MET    27      -8.300   1.190   9.326  1.00  0.00      1FLX 320
+ATOM    214  N   ALA    28      -2.995   1.910   6.329  1.00  0.00      1FLX 321
+ATOM    215  CA  ALA    28      -2.384   1.317   5.141  1.00  0.00      1FLX 322
+ATOM    216  C   ALA    28      -1.056   0.594   5.442  1.00  0.00      1FLX 323
+ATOM    217  O   ALA    28      -0.804  -0.462   4.861  1.00  0.00      1FLX 324
+ATOM    218  CB  ALA    28      -2.234   2.395   4.070  1.00  0.00      1FLX 325
+ATOM    219  N   ASN    29      -0.227   1.123   6.360  1.00  0.00      1FLX 326
+ATOM    220  CA  ASN    29       0.970   0.451   6.874  1.00  0.00      1FLX 327
+ATOM    221  C   ASN    29       0.575  -0.878   7.542  1.00  0.00      1FLX 328
+ATOM    222  O   ASN    29       1.203  -1.901   7.280  1.00  0.00      1FLX 329
+ATOM    223  CB  ASN    29       1.719   1.343   7.888  1.00  0.00      1FLX 330
+ATOM    224  CG  ASN    29       2.450   2.540   7.267  1.00  0.00      1FLX 331
+ATOM    225  OD1 ASN    29       3.277   2.365   6.375  1.00  0.00      1FLX 332
+ATOM    226  ND2 ASN    29       2.176   3.757   7.748  1.00  0.00      1FLX 333
+ATOM    227  N   GLN    30      -0.469  -0.858   8.389  1.00  0.00      1FLX 334
+ATOM    228  CA  GLN    30      -1.026  -2.018   9.084  1.00  0.00      1FLX 335
+ATOM    229  C   GLN    30      -1.536  -3.087   8.097  1.00  0.00      1FLX 336
+ATOM    230  O   GLN    30      -1.400  -4.277   8.375  1.00  0.00      1FLX 337
+ATOM    231  CB  GLN    30      -2.111  -1.546  10.070  1.00  0.00      1FLX 338
+ATOM    232  CG  GLN    30      -2.682  -2.679  10.937  1.00  0.00      1FLX 339
+ATOM    233  CD  GLN    30      -3.749  -2.161  11.908  1.00  0.00      1FLX 340
+ATOM    234  OE1 GLN    30      -3.427  -1.678  12.992  1.00  0.00      1FLX 341
+ATOM    235  NE2 GLN    30      -5.026  -2.266  11.525  1.00  0.00      1FLX 342
+ATOM    236  N   ALA    31      -2.097  -2.680   6.945  1.00  0.00      1FLX 343
+ATOM    237  CA  ALA    31      -2.533  -3.580   5.878  1.00  0.00      1FLX 344
+ATOM    238  C   ALA    31      -1.321  -4.252   5.210  1.00  0.00      1FLX 345
+ATOM    239  O   ALA    31      -1.286  -5.474   5.102  1.00  0.00      1FLX 346
+ATOM    240  CB  ALA    31      -3.393  -2.825   4.856  1.00  0.00      1FLX 347
+ATOM    241  N   ALA    32      -0.324  -3.459   4.785  1.00  0.00      1FLX 348
+ATOM    242  CA  ALA    32       0.938  -3.928   4.203  1.00  0.00      1FLX 349
+ATOM    243  C   ALA    32       1.690  -4.896   5.141  1.00  0.00      1FLX 350
+ATOM    244  O   ALA    32       2.319  -5.844   4.672  1.00  0.00      1FLX 351
+ATOM    245  CB  ALA    32       1.802  -2.717   3.828  1.00  0.00      1FLX 352
+ATOM    246  N   GLU    33       1.598  -4.667   6.460  1.00  0.00      1FLX 353
+ATOM    247  CA  GLU    33       2.141  -5.514   7.519  1.00  0.00      1FLX 354
+ATOM    248  C   GLU    33       1.382  -6.847   7.589  1.00  0.00      1FLX 355
+ATOM    249  O   GLU    33       2.008  -7.907   7.631  1.00  0.00      1FLX 356
+ATOM    250  CB  GLU    33       2.097  -4.742   8.849  1.00  0.00      1FLX 357
+ATOM    251  CG  GLU    33       2.749  -5.519  10.005  1.00  0.00      1FLX 358
+ATOM    252  CD  GLU    33       2.721  -4.752  11.333  1.00  0.00      1FLX 359
+ATOM    253  OE1 GLU    33       2.715  -3.501  11.288  1.00  0.00      1FLX 360
+ATOM    254  OE2 GLU    33       2.712  -5.434  12.380  1.00  0.00      1FLX 361
+ATOM    255  N   ALA    34       0.040  -6.794   7.588  1.00  0.00      1FLX 362
+ATOM    256  CA  ALA    34      -0.840  -7.962   7.575  1.00  0.00      1FLX 363
+ATOM    257  C   ALA    34      -0.602  -8.852   6.343  1.00  0.00      1FLX 364
+ATOM    258  O   ALA    34      -0.727 -10.069   6.446  1.00  0.00      1FLX 365
+ATOM    259  CB  ALA    34      -2.308  -7.522   7.654  1.00  0.00      1FLX 366
+ATOM    260  N   ILE    35      -0.247  -8.252   5.194  1.00  0.00      1FLX 367
+ATOM    261  CA  ILE    35       0.087  -8.930   3.942  1.00  0.00      1FLX 368
+ATOM    262  C   ILE    35       1.414  -9.700   4.059  1.00  0.00      1FLX 369
+ATOM    263  O   ILE    35       1.523 -10.789   3.497  1.00  0.00      1FLX 370
+ATOM    264  CB  ILE    35       0.060  -7.915   2.772  1.00  0.00      1FLX 371
+ATOM    265  CG1 ILE    35      -1.406  -7.499   2.515  1.00  0.00      1FLX 372
+ATOM    266  CG2 ILE    35       0.683  -8.487   1.483  1.00  0.00      1FLX 373
+ATOM    267  CD1 ILE    35      -1.547  -6.293   1.583  1.00  0.00      1FLX 374
+ATOM    268  N   LEU    36       2.416  -9.171   4.782  1.00  0.00      1FLX 375
+ATOM    269  CA  LEU    36       3.685  -9.866   5.015  1.00  0.00      1FLX 376
+ATOM    270  C   LEU    36       3.404 -11.164   5.799  1.00  0.00      1FLX 377
+ATOM    271  O   LEU    36       3.726 -12.254   5.328  1.00  0.00      1FLX 378
+ATOM    272  CB  LEU    36       4.690  -8.930   5.723  1.00  0.00      1FLX 379
+ATOM    273  CG  LEU    36       6.178  -9.306   5.531  1.00  0.00      1FLX 380
+ATOM    274  CD1 LEU    36       7.060  -8.314   6.305  1.00  0.00      1FLX 381
+ATOM    275  CD2 LEU    36       6.536 -10.731   5.975  1.00  0.00      1FLX 382
+ATOM    276  N   LYS    37       2.765 -11.044   6.975  1.00  0.00      1FLX 383
+ATOM    277  CA  LYS    37       2.356 -12.155   7.836  1.00  0.00      1FLX 384
+ATOM    278  C   LYS    37       1.341 -13.105   7.168  1.00  0.00      1FLX 385
+ATOM    279  O   LYS    37       1.346 -14.297   7.474  1.00  0.00      1FLX 386
+ATOM    280  CB  LYS    37       1.789 -11.603   9.159  1.00  0.00      1FLX 387
+ATOM    281  CG  LYS    37       2.895 -11.068  10.082  1.00  0.00      1FLX 388
+ATOM    282  CD  LYS    37       2.311 -10.513  11.390  1.00  0.00      1FLX 389
+ATOM    283  CE  LYS    37       3.415 -10.340  12.441  1.00  0.00      1FLX 390
+ATOM    284  NZ  LYS    37       2.898  -9.760  13.692  1.00  0.00      1FLX 391
+ATOM    285  N   GLY    38       0.474 -12.598   6.277  1.00  0.00      1FLX 392
+ATOM    286  CA  GLY    38      -0.591 -13.359   5.631  1.00  0.00      1FLX 393
+ATOM    287  C   GLY    38      -1.105 -12.630   4.386  1.00  0.00      1FLX 394
+ATOM    288  O   GLY    38      -2.044 -11.841   4.474  1.00  0.00      1FLX 395
+ATOM    289  N   GLY    39      -0.486 -12.912   3.230  1.00  0.00      1FLX 396
+ATOM    290  CA  GLY    39      -0.799 -12.320   1.937  1.00  0.00      1FLX 397
+ATOM    291  C   GLY    39      -1.825 -13.177   1.198  1.00  0.00      1FLX 398
+ATOM    292  O   GLY    39      -1.453 -14.170   0.574  1.00  0.00      1FLX 399
+ATOM    293  N   ASN    40      -3.106 -12.783   1.265  1.00  0.00      1FLX 400
+ATOM    294  CA  ASN    40      -4.236 -13.438   0.599  1.00  0.00      1FLX 401
+ATOM    295  C   ASN    40      -5.198 -12.390   0.016  1.00  0.00      1FLX 402
+ATOM    296  O   ASN    40      -5.199 -11.236   0.442  1.00  0.00      1FLX 403
+ATOM    297  CB  ASN    40      -4.941 -14.411   1.565  1.00  0.00      1FLX 404
+ATOM    298  CG  ASN    40      -5.456 -13.752   2.854  1.00  0.00      1FLX 405
+ATOM    299  OD1 ASN    40      -6.128 -12.725   2.807  1.00  0.00      1FLX 406
+ATOM    300  ND2 ASN    40      -5.141 -14.340   4.013  1.00  0.00      1FLX 407
+ATOM    301  N   GLU    41      -6.018 -12.796  -0.968  1.00  0.00      1FLX 408
+ATOM    302  CA  GLU    41      -6.954 -11.923  -1.683  1.00  0.00      1FLX 409
+ATOM    303  C   GLU    41      -7.851 -11.091  -0.750  1.00  0.00      1FLX 410
+ATOM    304  O   GLU    41      -8.125  -9.937  -1.072  1.00  0.00      1FLX 411
+ATOM    305  CB  GLU    41      -7.791 -12.737  -2.686  1.00  0.00      1FLX 412
+ATOM    306  CG  GLU    41      -8.660 -11.807  -3.559  1.00  0.00      1FLX 413
+ATOM    307  CD  GLU    41      -9.589 -12.571  -4.512  1.00  0.00      1FLX 414
+ATOM    308  OE1 GLU    41     -10.685 -12.050  -4.805  1.00  0.00      1FLX 415
+ATOM    309  OE2 GLU    41      -9.222 -13.670  -4.952  1.00  0.00      1FLX 416
+ATOM    310  N   ALA    42      -8.305 -11.643   0.387  1.00  0.00      1FLX 417
+ATOM    311  CA  ALA    42      -9.107 -10.915   1.371  1.00  0.00      1FLX 418
+ATOM    312  C   ALA    42      -8.343  -9.691   1.903  1.00  0.00      1FLX 419
+ATOM    313  O   ALA    42      -8.834  -8.571   1.785  1.00  0.00      1FLX 420
+ATOM    314  CB  ALA    42      -9.546 -11.853   2.502  1.00  0.00      1FLX 421
+ATOM    315  N   GLN    43      -7.139  -9.900   2.463  1.00  0.00      1FLX 422
+ATOM    316  CA  GLN    43      -6.262  -8.846   2.977  1.00  0.00      1FLX 423
+ATOM    317  C   GLN    43      -5.856  -7.842   1.884  1.00  0.00      1FLX 424
+ATOM    318  O   GLN    43      -5.791  -6.648   2.172  1.00  0.00      1FLX 425
+ATOM    319  CB  GLN    43      -5.015  -9.456   3.651  1.00  0.00      1FLX 426
+ATOM    320  CG  GLN    43      -5.302 -10.236   4.950  1.00  0.00      1FLX 427
+ATOM    321  CD  GLN    43      -5.647  -9.362   6.166  1.00  0.00      1FLX 428
+ATOM    322  OE1 GLN    43      -6.059  -8.211   6.035  1.00  0.00      1FLX 429
+ATOM    323  NE2 GLN    43      -5.466  -9.911   7.372  1.00  0.00      1FLX 430
+ATOM    324  N   LEU    44      -5.592  -8.294   0.645  1.00  0.00      1FLX 431
+ATOM    325  CA  LEU    44      -5.256  -7.401  -0.464  1.00  0.00      1FLX 432
+ATOM    326  C   LEU    44      -6.476  -6.586  -0.920  1.00  0.00      1FLX 433
+ATOM    327  O   LEU    44      -6.336  -5.386  -1.119  1.00  0.00      1FLX 434
+ATOM    328  CB  LEU    44      -4.560  -8.115  -1.638  1.00  0.00      1FLX 435
+ATOM    329  CG  LEU    44      -3.067  -8.408  -1.369  1.00  0.00      1FLX 436
+ATOM    330  CD1 LEU    44      -2.825  -9.630  -0.474  1.00  0.00      1FLX 437
+ATOM    331  CD2 LEU    44      -2.318  -8.599  -2.691  1.00  0.00      1FLX 438
+ATOM    332  N   LYS    45      -7.668  -7.182  -1.066  1.00  0.00      1FLX 439
+ATOM    333  CA  LYS    45      -8.895  -6.438  -1.373  1.00  0.00      1FLX 440
+ATOM    334  C   LYS    45      -9.171  -5.368  -0.305  1.00  0.00      1FLX 441
+ATOM    335  O   LYS    45      -9.492  -4.234  -0.658  1.00  0.00      1FLX 442
+ATOM    336  CB  LYS    45     -10.098  -7.381  -1.556  1.00  0.00      1FLX 443
+ATOM    337  CG  LYS    45     -10.191  -7.859  -3.014  1.00  0.00      1FLX 444
+ATOM    338  CD  LYS    45     -11.391  -8.792  -3.218  1.00  0.00      1FLX 445
+ATOM    339  CE  LYS    45     -11.516  -9.195  -4.690  1.00  0.00      1FLX 446
+ATOM    340  NZ  LYS    45     -12.698 -10.047  -4.918  1.00  0.00      1FLX 447
+ATOM    341  N   ASN    46      -9.009  -5.710   0.984  1.00  0.00      1FLX 448
+ATOM    342  CA  ASN    46      -9.078  -4.760   2.096  1.00  0.00      1FLX 449
+ATOM    343  C   ASN    46      -8.056  -3.627   1.897  1.00  0.00      1FLX 450
+ATOM    344  O   ASN    46      -8.377  -2.467   2.145  1.00  0.00      1FLX 451
+ATOM    345  CB  ASN    46      -8.832  -5.471   3.443  1.00  0.00      1FLX 452
+ATOM    346  CG  ASN    46      -9.862  -6.552   3.791  1.00  0.00      1FLX 453
+ATOM    347  OD1 ASN    46     -10.923  -6.641   3.175  1.00  0.00      1FLX 454
+ATOM    348  ND2 ASN    46      -9.545  -7.384   4.787  1.00  0.00      1FLX 455
+ATOM    349  N   ALA    47      -6.837  -3.966   1.441  1.00  0.00      1FLX 456
+ATOM    350  CA  ALA    47      -5.752  -3.029   1.182  1.00  0.00      1FLX 457
+ATOM    351  C   ALA    47      -6.085  -2.101   0.006  1.00  0.00      1FLX 458
+ATOM    352  O   ALA    47      -6.166  -0.896   0.215  1.00  0.00      1FLX 459
+ATOM    353  CB  ALA    47      -4.427  -3.778   0.978  1.00  0.00      1FLX 460
+ATOM    354  N   GLN    48      -6.283  -2.628  -1.216  1.00  0.00      1FLX 461
+ATOM    355  CA  GLN    48      -6.577  -1.833  -2.413  1.00  0.00      1FLX 462
+ATOM    356  C   GLN    48      -7.804  -0.925  -2.235  1.00  0.00      1FLX 463
+ATOM    357  O   GLN    48      -7.781   0.212  -2.699  1.00  0.00      1FLX 464
+ATOM    358  CB  GLN    48      -6.690  -2.687  -3.693  1.00  0.00      1FLX 465
+ATOM    359  CG  GLN    48      -5.573  -3.724  -3.934  1.00  0.00      1FLX 466
+ATOM    360  CD  GLN    48      -4.147  -3.240  -3.638  1.00  0.00      1FLX 467
+ATOM    361  OE1 GLN    48      -3.822  -2.068  -3.808  1.00  0.00      1FLX 468
+ATOM    362  NE2 GLN    48      -3.283  -4.155  -3.182  1.00  0.00      1FLX 469
+ATOM    363  N   ALA    49      -8.851  -1.402  -1.542  1.00  0.00      1FLX 470
+ATOM    364  CA  ALA    49     -10.021  -0.604  -1.174  1.00  0.00      1FLX 471
+ATOM    365  C   ALA    49      -9.590   0.580  -0.294  1.00  0.00      1FLX 472
+ATOM    366  O   ALA    49      -9.893   1.726  -0.615  1.00  0.00      1FLX 473
+ATOM    367  CB  ALA    49     -11.065  -1.483  -0.473  1.00  0.00      1FLX 474
+ATOM    368  N   LEU    50      -8.853   0.296   0.790  1.00  0.00      1FLX 475
+ATOM    369  CA  LEU    50      -8.247   1.274   1.696  1.00  0.00      1FLX 476
+ATOM    370  C   LEU    50      -7.295   2.248   0.965  1.00  0.00      1FLX 477
+ATOM    371  O   LEU    50      -7.137   3.383   1.413  1.00  0.00      1FLX 478
+ATOM    372  CB  LEU    50      -7.549   0.508   2.837  1.00  0.00      1FLX 479
+ATOM    373  CG  LEU    50      -6.789   1.367   3.863  1.00  0.00      1FLX 480
+ATOM    374  CD1 LEU    50      -7.715   2.330   4.620  1.00  0.00      1FLX 481
+ATOM    375  CD2 LEU    50      -6.091   0.427   4.855  1.00  0.00      1FLX 482
+ATOM    376  N   MET    51      -6.674   1.830  -0.152  1.00  0.00      1FLX 483
+ATOM    377  CA  MET    51      -5.804   2.670  -0.973  1.00  0.00      1FLX 484
+ATOM    378  C   MET    51      -6.642   3.614  -1.853  1.00  0.00      1FLX 485
+ATOM    379  O   MET    51      -6.322   4.797  -1.949  1.00  0.00      1FLX 486
+ATOM    380  CB  MET    51      -4.814   1.833  -1.808  1.00  0.00      1FLX 487
+ATOM    381  CG  MET    51      -3.899   0.863  -1.025  1.00  0.00      1FLX 488
+ATOM    382  SD  MET    51      -3.642   1.158   0.754  1.00  0.00      1FLX 489
+ATOM    383  CE  MET    51      -2.408  -0.113   1.114  1.00  0.00      1FLX 490
+ATOM    384  N   HIS    52      -7.727   3.116  -2.470  1.00  0.00      1FLX 491
+ATOM    385  CA  HIS    52      -8.689   3.929  -3.218  1.00  0.00      1FLX 492
+ATOM    386  C   HIS    52      -9.328   4.992  -2.306  1.00  0.00      1FLX 493
+ATOM    387  O   HIS    52      -9.484   6.139  -2.725  1.00  0.00      1FLX 494
+ATOM    388  CB  HIS    52      -9.754   3.041  -3.889  1.00  0.00      1FLX 495
+ATOM    389  CG  HIS    52      -9.186   2.065  -4.894  1.00  0.00      1FLX 496
+ATOM    390  ND1 HIS    52      -8.173   2.332  -5.789  1.00  0.00      1FLX 497
+ATOM    391  CD2 HIS    52      -9.575   0.764  -5.088  1.00  0.00      1FLX 498
+ATOM    392  CE1 HIS    52      -7.954   1.211  -6.498  1.00  0.00      1FLX 499
+ATOM    393  NE2 HIS    52      -8.783   0.229  -6.108  1.00  0.00      1FLX 500
+ATOM    394  N   GLU    53      -9.656   4.621  -1.056  1.00  0.00      1FLX 501
+ATOM    395  CA  GLU    53     -10.115   5.528  -0.006  1.00  0.00      1FLX 502
+ATOM    396  C   GLU    53      -9.066   6.620   0.244  1.00  0.00      1FLX 503
+ATOM    397  O   GLU    53      -9.408   7.798   0.222  1.00  0.00      1FLX 504
+ATOM    398  CB  GLU    53     -10.388   4.747   1.294  1.00  0.00      1FLX 505
+ATOM    399  CG  GLU    53     -11.652   3.876   1.240  1.00  0.00      1FLX 506
+ATOM    400  CD  GLU    53     -12.928   4.720   1.288  1.00  0.00      1FLX 507
+ATOM    401  OE1 GLU    53     -13.254   5.197   2.392  1.00  0.00      1FLX 508
+ATOM    402  OE2 GLU    53     -13.555   4.878   0.211  1.00  0.00      1FLX 509
+ATOM    403  N   ALA    54      -7.800   6.237   0.476  1.00  0.00      1FLX 510
+ATOM    404  CA  ALA    54      -6.693   7.148   0.759  1.00  0.00      1FLX 511
+ATOM    405  C   ALA    54      -6.556   8.262  -0.293  1.00  0.00      1FLX 512
+ATOM    406  O   ALA    54      -6.549   9.440   0.061  1.00  0.00      1FLX 513
+ATOM    407  CB  ALA    54      -5.387   6.358   0.896  1.00  0.00      1FLX 514
+ATOM    408  N   MET    55      -6.462   7.883  -1.577  1.00  0.00      1FLX 515
+ATOM    409  CA  MET    55      -6.368   8.789  -2.724  1.00  0.00      1FLX 516
+ATOM    410  C   MET    55      -7.556   9.766  -2.761  1.00  0.00      1FLX 517
+ATOM    411  O   MET    55      -7.357  10.968  -2.938  1.00  0.00      1FLX 518
+ATOM    412  CB  MET    55      -6.290   7.974  -4.031  1.00  0.00      1FLX 519
+ATOM    413  CG  MET    55      -5.006   7.133  -4.116  1.00  0.00      1FLX 520
+ATOM    414  SD  MET    55      -4.887   5.963  -5.500  1.00  0.00      1FLX 521
+ATOM    415  CE  MET    55      -4.966   7.084  -6.922  1.00  0.00      1FLX 522
+ATOM    416  N   LYS    56      -8.782   9.249  -2.586  1.00  0.00      1FLX 523
+ATOM    417  CA  LYS    56     -10.026  10.015  -2.600  1.00  0.00      1FLX 524
+ATOM    418  C   LYS    56     -10.098  11.021  -1.435  1.00  0.00      1FLX 525
+ATOM    419  O   LYS    56     -10.319  12.208  -1.675  1.00  0.00      1FLX 526
+ATOM    420  CB  LYS    56     -11.224   9.045  -2.590  1.00  0.00      1FLX 527
+ATOM    421  CG  LYS    56     -12.569   9.787  -2.679  1.00  0.00      1FLX 528
+ATOM    422  CD  LYS    56     -13.787   8.850  -2.639  1.00  0.00      1FLX 529
+ATOM    423  CE  LYS    56     -13.960   8.168  -1.272  1.00  0.00      1FLX 530
+ATOM    424  NZ  LYS    56     -15.226   7.419  -1.193  1.00  0.00      1FLX 531
+ATOM    425  N   THR    57      -9.941  10.547  -0.187  1.00  0.00      1FLX 532
+ATOM    426  CA  THR    57     -10.096  11.323   1.048  1.00  0.00      1FLX 533
+ATOM    427  C   THR    57      -9.157  12.545   1.064  1.00  0.00      1FLX 534
+ATOM    428  O   THR    57      -9.638  13.673   1.157  1.00  0.00      1FLX 535
+ATOM    429  CB  THR    57      -9.919  10.422   2.291  1.00  0.00      1FLX 536
+ATOM    430  OG1 THR    57     -10.741   9.274   2.199  1.00  0.00      1FLX 537
+ATOM    431  CG2 THR    57     -10.301  11.153   3.588  1.00  0.00      1FLX 538
+ATOM    432  N   ARG    58      -7.836  12.326   0.938  1.00  0.00      1FLX 539
+ATOM    433  CA  ARG    58      -6.824  13.373   0.742  1.00  0.00      1FLX 540
+ATOM    434  C   ARG    58      -5.898  12.922  -0.398  1.00  0.00      1FLX 541
+ATOM    435  O   ARG    58      -5.111  11.997  -0.202  1.00  0.00      1FLX 542
+ATOM    436  CB  ARG    58      -5.978  13.651   2.009  1.00  0.00      1FLX 543
+ATOM    437  CG  ARG    58      -6.701  14.303   3.211  1.00  0.00      1FLX 544
+ATOM    438  CD  ARG    58      -6.371  13.614   4.556  1.00  0.00      1FLX 545
+ATOM    439  NE  ARG    58      -7.550  13.517   5.436  1.00  0.00      1FLX 546
+ATOM    440  CZ  ARG    58      -7.573  12.821   6.590  1.00  0.00      1FLX 547
+ATOM    441  NH1 ARG    58      -6.511  12.833   7.407  1.00  0.00      1FLX 548
+ATOM    442  NH2 ARG    58      -8.666  12.117   6.932  1.00  0.00      1FLX 549
+ATOM    443  N   LYS    59      -5.963  13.579  -1.571  1.00  0.00      1FLX 550
+ATOM    444  CA  LYS    59      -5.062  13.299  -2.692  1.00  0.00      1FLX 551
+ATOM    445  C   LYS    59      -3.729  14.035  -2.459  1.00  0.00      1FLX 552
+ATOM    446  O   LYS    59      -3.721  15.189  -2.024  1.00  0.00      1FLX 553
+ATOM    447  CB  LYS    59      -5.704  13.677  -4.041  1.00  0.00      1FLX 554
+ATOM    448  CG  LYS    59      -4.994  12.943  -5.193  1.00  0.00      1FLX 555
+ATOM    449  CD  LYS    59      -5.486  13.383  -6.579  1.00  0.00      1FLX 556
+ATOM    450  CE  LYS    59      -4.834  12.500  -7.654  1.00  0.00      1FLX 557
+ATOM    451  NZ  LYS    59      -5.144  12.960  -9.018  1.00  0.00      1FLX 558
+ATOM    452  N   TYR    60      -2.607  13.354  -2.728  1.00  0.00      1FLX 559
+ATOM    453  CA  TYR    60      -1.237  13.802  -2.446  1.00  0.00      1FLX 560
+ATOM    454  C   TYR    60      -0.607  14.385  -3.724  1.00  0.00      1FLX 561
+ATOM    455  O   TYR    60      -0.890  15.539  -4.043  1.00  0.00      1FLX 562
+ATOM    456  CB  TYR    60      -0.421  12.687  -1.724  1.00  0.00      1FLX 563
+ATOM    457  CG  TYR    60      -1.104  11.323  -1.648  1.00  0.00      1FLX 564
+ATOM    458  CD1 TYR    60      -0.834  10.307  -2.594  1.00  0.00      1FLX 565
+ATOM    459  CD2 TYR    60      -2.066  11.097  -0.635  1.00  0.00      1FLX 566
+ATOM    460  CE1 TYR    60      -1.547   9.092  -2.549  1.00  0.00      1FLX 567
+ATOM    461  CE2 TYR    60      -2.792   9.888  -0.603  1.00  0.00      1FLX 568
+ATOM    462  CZ  TYR    60      -2.534   8.888  -1.560  1.00  0.00      1FLX 569
+ATOM    463  OH  TYR    60      -3.254   7.732  -1.515  1.00  0.00      1FLX 570
+ATOM    464  N   SER    61       0.227  13.618  -4.447  1.00  0.00      1FLX 571
+ATOM    465  CA  SER    61       0.880  14.037  -5.691  1.00  0.00      1FLX 572
+ATOM    466  C   SER    61       0.732  12.956  -6.768  1.00  0.00      1FLX 573
+ATOM    467  O   SER    61       0.423  11.803  -6.469  1.00  0.00      1FLX 574
+ATOM    468  CB  SER    61       2.350  14.410  -5.432  1.00  0.00      1FLX 575
+ATOM    469  OG  SER    61       3.097  13.312  -4.953  1.00  0.00      1FLX 576
+ATOM    470  N   GLU    62       0.942  13.344  -8.034  1.00  0.00      1FLX 577
+ATOM    471  CA  GLU    62       0.803  12.470  -9.197  1.00  0.00      1FLX 578
+ATOM    472  C   GLU    62       1.851  11.347  -9.193  1.00  0.00      1FLX 579
+ATOM    473  O   GLU    62       1.519  10.212  -9.532  1.00  0.00      1FLX 580
+ATOM    474  CB  GLU    62       0.837  13.286 -10.503  1.00  0.00      1FLX 581
+ATOM    475  CG  GLU    62      -0.310  14.316 -10.559  1.00  0.00      1FLX 582
+ATOM    476  CD  GLU    62      -0.391  15.078 -11.888  1.00  0.00      1FLX 583
+ATOM    477  OE1 GLU    62       0.675  15.274 -12.516  1.00  0.00      1FLX 584
+ATOM    478  OE2 GLU    62      -1.523  15.461 -12.253  1.00  0.00      1FLX 585
+ATOM    479  N   GLN    63       3.100  11.642  -8.796  1.00  0.00      1FLX 586
+ATOM    480  CA  GLN    63       4.170  10.652  -8.689  1.00  0.00      1FLX 587
+ATOM    481  C   GLN    63       3.835   9.604  -7.617  1.00  0.00      1FLX 588
+ATOM    482  O   GLN    63       3.835   8.413  -7.917  1.00  0.00      1FLX 589
+ATOM    483  CB  GLN    63       5.526  11.327  -8.414  1.00  0.00      1FLX 590
+ATOM    484  CG  GLN    63       5.934  12.289  -9.547  1.00  0.00      1FLX 591
+ATOM    485  CD  GLN    63       7.336  12.900  -9.404  1.00  0.00      1FLX 592
+ATOM    486  OE1 GLN    63       7.796  13.582 -10.319  1.00  0.00      1FLX 593
+ATOM    487  NE2 GLN    63       8.028  12.672  -8.283  1.00  0.00      1FLX 594
+ATOM    488  N   LEU    64       3.530  10.035  -6.381  1.00  0.00      1FLX 595
+ATOM    489  CA  LEU    64       3.133   9.155  -5.277  1.00  0.00      1FLX 596
+ATOM    490  C   LEU    64       1.873   8.341  -5.624  1.00  0.00      1FLX 597
+ATOM    491  O   LEU    64       1.815   7.164  -5.280  1.00  0.00      1FLX 598
+ATOM    492  CB  LEU    64       2.962   9.959  -3.972  1.00  0.00      1FLX 599
+ATOM    493  CG  LEU    64       4.273  10.248  -3.200  1.00  0.00      1FLX 600
+ATOM    494  CD1 LEU    64       4.764   9.000  -2.448  1.00  0.00      1FLX 601
+ATOM    495  CD2 LEU    64       5.415  10.792  -4.075  1.00  0.00      1FLX 602
+ATOM    496  N   ALA    65       0.888   8.931  -6.324  1.00  0.00      1FLX 603
+ATOM    497  CA  ALA    65      -0.305   8.233  -6.807  1.00  0.00      1FLX 604
+ATOM    498  C   ALA    65       0.071   7.080  -7.755  1.00  0.00      1FLX 605
+ATOM    499  O   ALA    65      -0.413   5.962  -7.584  1.00  0.00      1FLX 606
+ATOM    500  CB  ALA    65      -1.260   9.219  -7.496  1.00  0.00      1FLX 607
+ATOM    501  N   GLN    66       0.943   7.351  -8.739  1.00  0.00      1FLX 608
+ATOM    502  CA  GLN    66       1.456   6.383  -9.708  1.00  0.00      1FLX 609
+ATOM    503  C   GLN    66       2.233   5.251  -9.016  1.00  0.00      1FLX 610
+ATOM    504  O   GLN    66       1.926   4.088  -9.259  1.00  0.00      1FLX 611
+ATOM    505  CB  GLN    66       2.312   7.097 -10.769  1.00  0.00      1FLX 612
+ATOM    506  CG  GLN    66       1.438   7.907 -11.745  1.00  0.00      1FLX 613
+ATOM    507  CD  GLN    66       2.241   8.875 -12.622  1.00  0.00      1FLX 614
+ATOM    508  OE1 GLN    66       1.792   9.990 -12.881  1.00  0.00      1FLX 615
+ATOM    509  NE2 GLN    66       3.430   8.467 -13.079  1.00  0.00      1FLX 616
+ATOM    510  N   GLU    67       3.212   5.571  -8.153  1.00  0.00      1FLX 617
+ATOM    511  CA  GLU    67       3.980   4.596  -7.369  1.00  0.00      1FLX 618
+ATOM    512  C   GLU    67       3.045   3.655  -6.592  1.00  0.00      1FLX 619
+ATOM    513  O   GLU    67       3.200   2.437  -6.659  1.00  0.00      1FLX 620
+ATOM    514  CB  GLU    67       4.937   5.320  -6.401  1.00  0.00      1FLX 621
+ATOM    515  CG  GLU    67       6.080   6.056  -7.125  1.00  0.00      1FLX 622
+ATOM    516  CD  GLU    67       7.004   6.834  -6.180  1.00  0.00      1FLX 623
+ATOM    517  OE1 GLU    67       6.806   6.748  -4.946  1.00  0.00      1FLX 624
+ATOM    518  OE2 GLU    67       7.905   7.508  -6.721  1.00  0.00      1FLX 625
+ATOM    519  N   PHE    68       2.074   4.230  -5.871  1.00  0.00      1FLX 626
+ATOM    520  CA  PHE    68       1.074   3.534  -5.067  1.00  0.00      1FLX 627
+ATOM    521  C   PHE    68       0.218   2.577  -5.921  1.00  0.00      1FLX 628
+ATOM    522  O   PHE    68      -0.069   1.462  -5.486  1.00  0.00      1FLX 629
+ATOM    523  CB  PHE    68       0.243   4.607  -4.333  1.00  0.00      1FLX 630
+ATOM    524  CG  PHE    68      -0.620   4.212  -3.148  1.00  0.00      1FLX 631
+ATOM    525  CD1 PHE    68      -0.187   3.230  -2.223  1.00  0.00      1FLX 632
+ATOM    526  CD2 PHE    68      -1.842   4.886  -2.926  1.00  0.00      1FLX 633
+ATOM    527  CE1 PHE    68      -0.931   2.989  -1.053  1.00  0.00      1FLX 634
+ATOM    528  CE2 PHE    68      -2.574   4.653  -1.741  1.00  0.00      1FLX 635
+ATOM    529  CZ  PHE    68      -2.096   3.739  -0.788  1.00  0.00      1FLX 636
+ATOM    530  N   ALA    69      -0.157   3.001  -7.140  1.00  0.00      1FLX 637
+ATOM    531  CA  ALA    69      -0.907   2.222  -8.128  1.00  0.00      1FLX 638
+ATOM    532  C   ALA    69      -0.063   1.089  -8.735  1.00  0.00      1FLX 639
+ATOM    533  O   ALA    69      -0.561  -0.025  -8.886  1.00  0.00      1FLX 640
+ATOM    534  CB  ALA    69      -1.437   3.150  -9.230  1.00  0.00      1FLX 641
+ATOM    535  N   HIS    70       1.210   1.355  -9.073  1.00  0.00      1FLX 642
+ATOM    536  CA  HIS    70       2.161   0.359  -9.572  1.00  0.00      1FLX 643
+ATOM    537  C   HIS    70       2.317  -0.789  -8.562  1.00  0.00      1FLX 644
+ATOM    538  O   HIS    70       2.344  -1.954  -8.957  1.00  0.00      1FLX 645
+ATOM    539  CB  HIS    70       3.518   1.010  -9.902  1.00  0.00      1FLX 646
+ATOM    540  CG  HIS    70       3.486   1.977 -11.066  1.00  0.00      1FLX 647
+ATOM    541  ND1 HIS    70       2.828   1.782 -12.261  1.00  0.00      1FLX 648
+ATOM    542  CD2 HIS    70       4.110   3.195 -11.137  1.00  0.00      1FLX 649
+ATOM    543  CE1 HIS    70       3.054   2.862 -13.029  1.00  0.00      1FLX 650
+ATOM    544  NE2 HIS    70       3.828   3.752 -12.387  1.00  0.00      1FLX 651
+ATOM    545  N   CYS    71       2.392  -0.459  -7.264  1.00  0.00      1FLX 652
+ATOM    546  CA  CYS    71       2.459  -1.423  -6.171  1.00  0.00      1FLX 653
+ATOM    547  C   CYS    71       1.150  -2.210  -6.035  1.00  0.00      1FLX 654
+ATOM    548  O   CYS    71       1.205  -3.417  -5.812  1.00  0.00      1FLX 655
+ATOM    549  CB  CYS    71       2.827  -0.730  -4.854  1.00  0.00      1FLX 656
+ATOM    550  SG  CYS    71       4.478  -0.004  -4.986  1.00  0.00      1FLX 657
+ATOM    551  N   ALA    72      -0.015  -1.553  -6.189  1.00  0.00      1FLX 658
+ATOM    552  CA  ALA    72      -1.318  -2.217  -6.212  1.00  0.00      1FLX 659
+ATOM    553  C   ALA    72      -1.366  -3.298  -7.304  1.00  0.00      1FLX 660
+ATOM    554  O   ALA    72      -1.877  -4.389  -7.055  1.00  0.00      1FLX 661
+ATOM    555  CB  ALA    72      -2.451  -1.194  -6.389  1.00  0.00      1FLX 662
+ATOM    556  N   TYR    73      -0.813  -3.010  -8.497  1.00  0.00      1FLX 663
+ATOM    557  CA  TYR    73      -0.719  -3.957  -9.604  1.00  0.00      1FLX 664
+ATOM    558  C   TYR    73       0.218  -5.134  -9.274  1.00  0.00      1FLX 665
+ATOM    559  O   TYR    73      -0.169  -6.275  -9.520  1.00  0.00      1FLX 666
+ATOM    560  CB  TYR    73      -0.348  -3.245 -10.922  1.00  0.00      1FLX 667
+ATOM    561  CG  TYR    73      -1.397  -2.272 -11.457  1.00  0.00      1FLX 668
+ATOM    562  CD1 TYR    73      -1.049  -0.945 -11.806  1.00  0.00      1FLX 669
+ATOM    563  CD2 TYR    73      -2.734  -2.702 -11.627  1.00  0.00      1FLX 670
+ATOM    564  CE1 TYR    73      -2.031  -0.054 -12.290  1.00  0.00      1FLX 671
+ATOM    565  CE2 TYR    73      -3.717  -1.811 -12.106  1.00  0.00      1FLX 672
+ATOM    566  CZ  TYR    73      -3.370  -0.482 -12.427  1.00  0.00      1FLX 673
+ATOM    567  OH  TYR    73      -4.326   0.385 -12.871  1.00  0.00      1FLX 674
+ATOM    568  N   LYS    74       1.417  -4.901  -8.705  1.00  0.00      1FLX 675
+ATOM    569  CA  LYS    74       2.328  -5.981  -8.289  1.00  0.00      1FLX 676
+ATOM    570  C   LYS    74       1.667  -6.879  -7.226  1.00  0.00      1FLX 677
+ATOM    571  O   LYS    74       1.654  -8.100  -7.373  1.00  0.00      1FLX 678
+ATOM    572  CB  LYS    74       3.670  -5.431  -7.747  1.00  0.00      1FLX 679
+ATOM    573  CG  LYS    74       4.915  -5.953  -8.490  1.00  0.00      1FLX 680
+ATOM    574  CD  LYS    74       6.188  -5.579  -7.708  1.00  0.00      1FLX 681
+ATOM    575  CE  LYS    74       7.464  -6.175  -8.321  1.00  0.00      1FLX 682
+ATOM    576  NZ  LYS    74       8.643  -5.912  -7.475  1.00  0.00      1FLX 683
+ATOM    577  N   ALA    75       1.144  -6.257  -6.155  1.00  0.00      1FLX 684
+ATOM    578  CA  ALA    75       0.481  -6.909  -5.028  1.00  0.00      1FLX 685
+ATOM    579  C   ALA    75      -0.628  -7.853  -5.513  1.00  0.00      1FLX 686
+ATOM    580  O   ALA    75      -0.647  -9.029  -5.153  1.00  0.00      1FLX 687
+ATOM    581  CB  ALA    75      -0.061  -5.838  -4.068  1.00  0.00      1FLX 688
+ATOM    582  N   ARG    76      -1.537  -7.333  -6.347  1.00  0.00      1FLX 689
+ATOM    583  CA  ARG    76      -2.651  -8.069  -6.932  1.00  0.00      1FLX 690
+ATOM    584  C   ARG    76      -2.160  -9.215  -7.835  1.00  0.00      1FLX 691
+ATOM    585  O   ARG    76      -2.624 -10.345  -7.693  1.00  0.00      1FLX 692
+ATOM    586  CB  ARG    76      -3.547  -7.082  -7.695  1.00  0.00      1FLX 693
+ATOM    587  CG  ARG    76      -4.837  -7.744  -8.196  1.00  0.00      1FLX 694
+ATOM    588  CD  ARG    76      -5.708  -6.717  -8.931  1.00  0.00      1FLX 695
+ATOM    589  NE  ARG    76      -6.961  -7.317  -9.413  1.00  0.00      1FLX 696
+ATOM    590  CZ  ARG    76      -8.068  -7.531  -8.676  1.00  0.00      1FLX 697
+ATOM    591  NH1 ARG    76      -9.147  -8.074  -9.256  1.00  0.00      1FLX 698
+ATOM    592  NH2 ARG    76      -8.117  -7.213  -7.373  1.00  0.00      1FLX 699
+ATOM    593  N   ALA    77      -1.226  -8.922  -8.755  1.00  0.00      1FLX 700
+ATOM    594  CA  ALA    77      -0.653  -9.875  -9.707  1.00  0.00      1FLX 701
+ATOM    595  C   ALA    77      -0.064 -11.120  -9.025  1.00  0.00      1FLX 702
+ATOM    596  O   ALA    77      -0.266 -12.229  -9.521  1.00  0.00      1FLX 703
+ATOM    597  CB  ALA    77       0.398  -9.181 -10.584  1.00  0.00      1FLX 704
+ATOM    598  N   SER    78       0.649 -10.949  -7.898  1.00  0.00      1FLX 705
+ATOM    599  CA  SER    78       1.252 -12.045  -7.143  1.00  0.00      1FLX 706
+ATOM    600  C   SER    78       0.171 -12.998  -6.606  1.00  0.00      1FLX 707
+ATOM    601  O   SER    78       0.109 -14.144  -7.051  1.00  0.00      1FLX 708
+ATOM    602  CB  SER    78       2.215 -11.515  -6.064  1.00  0.00      1FLX 709
+ATOM    603  OG  SER    78       1.570 -10.718  -5.094  1.00  0.00      1FLX 710
+ATOM    604  N   GLN    79      -0.688 -12.534  -5.680  1.00  0.00      1FLX 711
+ATOM    605  CA  GLN    79      -1.803 -13.307  -5.132  1.00  0.00      1FLX 712
+ATOM    606  C   GLN    79      -2.986 -12.373  -4.847  1.00  0.00      1FLX 713
+ATOM    607  O   GLN    79      -3.773 -12.125  -5.759  1.00  0.00      1FLX 714
+ATOM    608  CB  GLN    79      -1.384 -14.098  -3.875  1.00  0.00      1FLX 715
+ATOM    609  CG  GLN    79      -0.265 -15.120  -4.141  1.00  0.00      1FLX 716
+ATOM    610  CD  GLN    79      -0.031 -16.088  -2.976  1.00  0.00      1FLX 717
+ATOM    611  OE1 GLN    79       0.236 -17.268  -3.199  1.00  0.00      1FLX 718
+ATOM    612  NE2 GLN    79      -0.134 -15.608  -1.733  1.00  0.00      1FLX 719
+ATOM    613  OXT GLN    79      -3.124 -11.868  -3.587  1.00  0.00      1FLX 720
+TER     614      GLN    79                                              1FLX 721
+MASTER       79    0    0    4    0    0    0    6  613    1    0    7  1FLXA  8
+END                                                                     1FLX 723

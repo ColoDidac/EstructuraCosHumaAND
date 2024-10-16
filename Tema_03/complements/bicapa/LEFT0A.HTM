@@ -1,0 +1,71 @@
+<html>
+<head>
+<script language='javascript'>
+
+var shade_warned = 0;
+
+function MessageAlert(buttonname, message)
+{
+	if (message.indexOf("Requesting") != -1)
+		return;
+	else if (message.indexOf("Chime script completed") != -1)
+		return;
+	else if (message.indexOf("atoms selected!") != -1)
+		return;
+	else if(message.indexOf("atom selected!") != -1)
+		return;
+	else if (!(message.length))
+		return;
+	else if(message.indexOf("script <exiting>") != -1)
+		return;
+	else if(message.indexOf("Rotating about") != -1)
+		return;
+	else if(message.indexOf("replaced with shade") != -1)
+		return;
+	else if(message.indexOf("Unable to allocate shade") != -1)
+	{
+		// give this warning just once
+		if (shade_warned)
+			return;
+		else
+			shade_warned = 1;
+	}
+	alert(message);
+}
+</script>
+
+</head>
+<body bgcolor="#404040">
+
+<!--
+If we don't load anything, subsequent scripts applied by buttons don't
+work.  So we load a dummy PDB file with a single atom.  The default
+wireframe representation shows nothing since there are no bonds.
+(However you can see that it loaded if you use the menu to display
+spacefill.)
+-->
+<embed
+	src="1atom.pdb"
+	bgcolor="#000000"
+	width=100%
+	height=97%
+	name="chime_graphic" 
+	spiny=15
+	startspin=0
+	MessageCallBack = "parent.f_left.MessageAlert"
+	script="set picking none; set fontsize 11; select atomno=1; label 'Pulsa el primer boton'"
+>
+
+<!--
+The default rotation rate is much too fast.  spiny=10 sets it to
+10 degrees per second (?).
+Rotation can be invoked with Chime's menu.
+
+Other possibilities for the <embed ...> tag, not used:
+	type="application/x-spt"
+	script="load '1atom.pdb'"
+-->
+
+
+</body>
+</html>

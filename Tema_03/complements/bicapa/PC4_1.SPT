@@ -1,0 +1,13 @@
+zap
+load "slc-w.pdb"
+wireframe 0.4
+script "palmyell.spt"
+restrict 152
+rotate y 90
+zoom 200
+refresh
+script "delay3.spt"
+
+restrict 152
+select (lip.c15 or lip.c35) and 152
+spacefill
